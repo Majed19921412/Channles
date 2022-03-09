@@ -93,10 +93,10 @@ http://o0cd.b-cdn.net/ar-s/Boomerang/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="Kids",Nickelodeon
 
  
-http://o0cd.b-cdn.net/ar-s/Nickelodeon/index.m3u
+http://o0cd.b-cdn.net/ar-s/Nickelodeon/index.m3u8
 
 
-8#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="Kids",Nick Toon
+#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="Kids",Nick Toon
 
  
 http://o0cd.b-cdn.net/ar-s/OSN-Nick-Toons-HD/index.m3u8
