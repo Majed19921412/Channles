@@ -1,6 +1,9 @@
 
+http://1986001557.rsc.cdn77.org/T8mFr4XpWPkN3Jlb2vXFXA==,1647329354/ar/Toyor-Aljanha/tracks-v1a1/mono.m3u8
+http://1986001557.rsc.cdn77.org/T8mFr4XpWPkN3Jlb2vXFXA==,1647329354/ar/Toyor-Aljanha/tracks-v1a1/mono.m3u8
+http://1269745506.rsc.cdn77.org/OC0TwLBvWWfj_hGGc9TG6A==,1647329354/ar-s/Jeem-HD/tracks-v1a1/mono.m3u8
 
-http://1269745506.rsc.contentproxy9.cz/H5i9JyfmP-q1QZuX6FWbPA==,1644606821/MY-Boomerang/index.m3u8
+http://1269745506.rsc.cdn77.org/TciCNqIH9wSWPRc4ml3J8Q==,1647329354/ar-s/OSN-KIDS-ZONE/tracks-v1a1/mono.m3u8
 #EXTM3U
 
 
@@ -30,15 +33,19 @@ https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f4
 
 #EXTINF:-1  tvg-name="Fix & Foxi" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/FixFoxi.png" group-title="Kids",Fix & Foxi
 
+http://o0cd.b-cdn.net/ar-s/Fix-Foxi/index.m3u8
 
-http://1269745506.rsc.cdn77.org/-gn1H_MvPHbqjejYO8058w==,1647329354/ar-s/Fix-Foxi/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1  tvg-name="Laab Wa Jad " tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Laab-ou-jad.png" group-title="Kids",Laab Wa Jad 
 http://1269745506.rsc.cdn77.org/LoGdQtVZBDnW33gBlKP0EA==,1647256360/ar-s/Laabwjad/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://gobx.com/wp-content/uploads/2021/05/ZOOMOO.png" group-title="Kids",Zoo Moo
-http://1269745506.rsc.cdn77.org/jiFrndCUk-uvLFu6gj8eVw==,1647329354/ar-s/ZOOMOOTV/tracks-v1a1/mono.m3u8
+
+
+http://o0cd.b-cdn.net/ar-s/ZOOMOOTV/index.m3u8
+
+
 
 #EXTINF:-1  tvg-name="TIJI in French" tvg-logo="https://shahidstatic4.akamaized.net//mediaObject/2021/Abd/Jan/m6-images/TIJI_THUMB/original/TIJI_THUMB.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" group-title="Kids",TIJI in French
 
@@ -49,49 +56,51 @@ https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Toyor Aljanah" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="Kids",Toyor Aljanah
 
-http://1986001557.rsc.cdn77.org/T8mFr4XpWPkN3Jlb2vXFXA==,1647329354/ar/Toyor-Aljanha/tracks-v1a1/mono.m3u8
+http://a0cd.b-cdn.net/ar/Toyor-Aljanha/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="karamesh" tvg-logo="https://9orao5br.com/wp-content/uploads/2021/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4-2021.jpg" group-title="Kids",karamesh
 
-http://1986001557.rsc.cdn77.org/3vXNcHEQhMmWtWxQBAKU1g==,1647256360/My-AR-Karameesh/tracks-v1a1/mono.m3u8
+http://a0cd.b-cdn.net/ar/Karameesh/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-name="Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang 
-http://1269745506.rsc.cdn77.org/BiMxK6H6ewm2asW5FVzrnA==,1647329354/ar-s/Boomerang/tracks-v1a1/mono.m3u8
-
+http://o0cd.b-cdn.net/ar-s/Boomerang/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="Kids",Nickelodeon 
-http://1269745506.rsc.cdn77.org/v-UCP2CUI0DGf-vEKnU5Bw==,1647329354/ar-s/Nickelodeon/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/Nickelodeon/index.m3u8#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="Kids",Nick Toon 
+http://o0cd.b-cdn.net/ar-s/OSN-Nick-Toons-HD/index.m3u8
 
-#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="Kids",Nick Toon 
-http://1269745506.rsc.cdn77.org/cB1K539VwWkkydYXRSF_Ew==,1647329354/ar-s/OSN-Nick-Toons-HD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-name="Nick Jr " tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" group-title="Kids",Nick Jr 
-http://1269745506.rsc.cdn77.org/9_yvuZZnSBBRdzb3a2eSwA==,1647329354/ar-s/Nick-jr/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/Nick-jr/index.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney
-http://1269745506.rsc.cdn77.org/pqhk8Y1cwcj8Cr3BqhOZ7g==,1647329354/ar-s/Disney-Channels/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/Disney-Channels/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Disney Jr" tvg-logo="https://content.osn.com/logo/channel/cropped/DJR.png" group-title="Kids",Disney Jr
-http://1269745506.rsc.cdn77.org/EM1GSBQt395Mk9LM0xGErw==,1647329354/ar-s/DISNEY-JUNIOR/tracks-v1a1/mono.m3u8
+
+http://o0cd.b-cdn.net/ar-s/DISNEY-JUNIOR/index.m3u8
+
+
+
 #EXTINF:-1 tvg-name="Baby" tvg-logo="https://infrad.org/wp-content/uploads/2019/11/81KCYvActQL-21.png" group-title="Kids",Baby
-http://1269745506.rsc.cdn77.org/jgd0kBhMJ_nyVhSAhRw1Ow==,1647329354/ar-s/BN-Baby/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/BN-Baby/index.m3u8
+
 
 #EXTINF:-1 tvg-name="OSN KidZone" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="Kids",OSN KidZone
-http://1269745506.rsc.cdn77.org/TciCNqIH9wSWPRc4ml3J8Q==,1647329354/ar-s/OSN-KIDS-ZONE/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/OSN-KIDS-ZONE/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="OSN  Kids " tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="Kids",OSN  Kids 
-http://1269745506.rsc.cdn77.org/bViSkMT3pR47tCF7C8Fz5g==,1647329354/ar-s/Movies-HD-Kids/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/Movies-HD-Kids/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem HD
 
-#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem HD
-
-http://1269745506.rsc.cdn77.org/cH-4hDnMDuS9nQgeG1mtJg==,1647329354/ar-s/Baraem-HD/tracks-v1a1/mono.m3u8
+http://o0cd.b-cdn.net/ar-s/Baraem-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="Kids",Jeem HD
-http://1269745506.rsc.cdn77.org/OC0TwLBvWWfj_hGGc9TG6A==,1647329354/ar-s/Jeem-HD/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-
-
-
+http://o0cd.b-cdn.net/ar-s/Jeem-HD/index.m3u8
 
 
 
