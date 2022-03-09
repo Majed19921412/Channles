@@ -2,22 +2,35 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
 http://s0cd.b-cdn.net/ar-s/WhKxECvZSk/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT
 http://s0cd.b-cdn.net/ar-s/pEmPdyrGGz/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="Sport",beIN SPORTS 1 
 http://s0cd.b-cdn.net/ar-s/lpWyPaQm-stop/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="Sport",BEIN SPORTS 2 
 http://s0cd.b-cdn.net/ar-s/RTklrSCO-stop/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3 
-http://s0cd.b-cdn.net/ar-s/iBrXOtHZ-stop/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="Sport",beINSPORTS 4 
-http://teratv.co:8880/965478123547/zdas54786hgf/70
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="Sport",beINSPORTS 5 
-http://s0cd.b-cdn.net/ar-s/EJECWxsf-stop/index.m3u8#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="Sport",beINSPORTS 6 
+http://s0cd.b-cdn.net/ar-s/iBrXOtHZ-stop/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="Sport",beINSPORTS 4 
+http://s0cd.b-cdn.net/ar-s/EJECWxsf-stop/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="Sport",beINSPORTS 5
+
 http://s0cd.b-cdn.net/ar-s/tLtFFTQJ-H265/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="Sport",beINSPORTS 7 
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="Sport",beINSPORTS 6 
 http://s0cd.b-cdn.net/ar-s/fjDpwwUG-H265/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="Sport",beINSPORTS 7 
+
+http://s0cd.b-cdn.net/ar-s/yOQslDCT-H265/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" group-title="Sport",beINSPORTS 1 PREMIUM
 
@@ -25,15 +38,8 @@ http://s0cd.b-cdn.net/ar-s/iDYAvpCE-stop/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" group-title="Sport",beINSPORTS 2 PREMIUM
 http://s0cd.b-cdn.net/ar-s/EcHrXWLB-stop/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" group-title="Sport",beINSPORTS 3 PREMIUM
-http://1200631223.rsc.cdn77.org/FP3A1Sb6xfA5uwuniLGtYA==,1647283141/ar-s/BrCackYK-stop/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS NBA " tvg-logo="https://cne-eg.com/uploads/logos/20211415532342.png" group-title="Sport",beINSPORTS NBA 
-http://teratv.co:8880/965478123547/zdas54786hgf/157651
 
-
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS MAX 1 " tvg-logo="https://cne-eg.com/uploads/logos/202111458122.png" group-title="Sport",beINSPORTS MAX 1 
-http://teratv.co:8880/965478123547/zdas54786hgf/233673
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS MAX 2 " tvg-logo="https://cne-eg.com/uploads/logos/202111435859.png" group-title="Sport",beINSPORTS MAX 2 
-http://teratv.co:8880/965478123547/zdas54786hgf/233672
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS MAX 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021124049660.png" group-title="Sport",beINSPORTS MAX 3 
-http://teratv.co:8880/965478123547/zdas54786hgf/157669
+http://s0cd.b-cdn.net/ar-s/BrCackYK-stop/index.m3u8
