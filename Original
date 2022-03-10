@@ -13,11 +13,11 @@ http://freearabic.zinamedia.net/ar/Saudi1/index.m3u8
 http://freearabic.zinamedia.net/ar/SBC-HD/index.m3u8
 
 #EXTINF:-1  tvg-name="Thekriyat " tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Arabic",Thekriyat 
-http://o0cd.b-cdn.net/ar/Thikrayat-HD/index.m3u8
+http://zinachannels.zinamedia.net/ar/Thikrayat-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-name="MBC 1 " tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Arabic",MBC 1 
 
-http://o0cd.b-cdn.net/ar-s/mbc-h265/index.m3u8
+http://zinachannels.zinamedia.net/ar-s/mbc-h265/tracks-v1a1/mono.m3u8
 
 
 
