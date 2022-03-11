@@ -1,46 +1,46 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" ,beIN SPORT NEWS
 http://s0cd.b-cdn.net/ar-s/WhKxECvZSk/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" ,beIN SPORT
 http://s0cd.b-cdn.net/ar-s/pEmPdyrGGz/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="Sport",beIN SPORTS 1 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" ,beIN SPORTS 1 
 http://s0cd.b-cdn.net/ar-s/lpWyPaQm-stop/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="Sport",BEIN SPORTS 2 
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" ,BEIN SPORTS 2 
 http://s0cd.b-cdn.net/ar-s/RTklrSCO-stop/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3 
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" ,beINSPORTS 3 
 http://s0cd.b-cdn.net/ar-s/iBrXOtHZ-stop/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="Sport",beINSPORTS 4 
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" ,beINSPORTS 4 
 http://s0cd.b-cdn.net/ar-s/EJECWxsf-stop/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="Sport",beINSPORTS 5
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" ,beINSPORTS 5
 
 http://s0cd.b-cdn.net/ar-s/tLtFFTQJ-H265/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="Sport",beINSPORTS 6 
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" ,beINSPORTS 6 
 http://s0cd.b-cdn.net/ar-s/fjDpwwUG-H265/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="Sport",beINSPORTS 7 
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" ,beINSPORTS 7 
 
 http://s0cd.b-cdn.net/ar-s/yOQslDCT-H265/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" group-title="Sport",beINSPORTS 1 PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" ,beINSPORTS 1 PREMIUM
 
 http://1200631223.rsc.cdn77.org/BDFI5fkEz01fmMFzGAcWeg==,1647463733/ar-s/iDYAvpCE-stop/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" group-title="Sport",beINSPORTS 2 PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" ,beINSPORTS 2 PREMIUM
 http://s0cd.b-cdn.net/ar-s/EcHrXWLB-stop/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" group-title="Sport",beINSPORTS 3 PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" ,beINSPORTS 3 PREMIUM
 
 http://s0cd.b-cdn.net/ar-s/BrCackYK-stop/index.m3u8
