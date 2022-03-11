@@ -1,6 +1,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
+
+http://freearabic.zinamedia.net/ar/Saudi-Quraan/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
+
+http://freearabic.zinamedia.net/ar/Quraan-Sunnah/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
 
