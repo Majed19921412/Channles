@@ -3,11 +3,11 @@
 
 #EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
 
-http://freearabic.zinamedia.net/ar/Saudi-Quraan/tracks-v1a1/mono.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647044676/ei/45MrYr_sNtmtmLAPxqiwyAY/ip/2001%3A16a2%3Ac15b%3A6d0c%3A617e%3A706a%3A3c14%3Af1ba/id/IUrF2NfV5b0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIga7mhGMfh4qD4pgDnXe3opfy7VlXI96bRaxb3m4jB4QICIQCderPf-X-Vf-Y5EDuyvidpp2Sm2n4fFEERX6VD35oAjA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
 
-http://freearabic.zinamedia.net/ar/Quraan-Sunnah/tracks-v1a1/mono.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647044573/ei/fZMrYt_kMfrDmLAPquuPmAw/ip/2001%3A16a2%3Ac15b%3A6d0c%3A617e%3A706a%3A3c14%3Af1ba/id/gUC3TjCrwRw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/hightc/yes/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAImWTWu4gZQFbNzwaJgQPQgeWuDaIVD--X904DrrFgjJAiEA9Zs15o5NGMNQVtVDAm4E99Xp_g2ssxzH-okYpWXZ50o%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
 
