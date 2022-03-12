@@ -70,6 +70,9 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
 
 
+#EXTINF:-1 tvg-name="MBC Action " tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="Entertainment",MBC Action 
+
+http://localchannels.zinamedia.net/ar-s/my-onc-5/index.m3u8
 
 #EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood " tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="Entertainment",MBC Bollywood 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
