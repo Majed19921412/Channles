@@ -73,7 +73,8 @@ http://zinachannels.zinamedia.net/ar-s/OSN-ART-Hekayat1/index.m3u8
 http://zinachannels.zinamedia.net/ar-s/ART-Hekayat2/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://gobx.com/wp-content/uploads/2019/05/MBC-Variety.png" group-title="Entertainment",MBC Variety 
-https://7jlive.tooli-tv.com/live/149017_2.m3u8?session=&location=
+
+http://zinachannels.zinamedia.net/ar-s/MBC-Variety/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Action " tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="Entertainment",MBC Action 
 
@@ -89,8 +90,8 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 http://teratv.co:8880/965478123547/zdas54786hgf/104092
 
 #EXTINF:-1  tvg-name="FOX HD" tvg-logo="https://cne-eg.com/uploads/logos/20199112211881.png" group-title="Entertainment  ",FOX HD
-http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3846
 
+http://free1.zinamedia.net/ar-s/Fox-crime-Hd/index.m3u8
 #EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="Entertainment",beIN Series 1 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3084
 #EXTINF:-1 tvg-name="beIN Series 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021123838894.png"    group-title="Entertainment",beIN Series 2 
@@ -313,13 +314,15 @@ http://freearabic.zinamedia.net/ar/Nile-TV/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Fox rewayat" tvg-logo="https://www.ngmisr.com/wp-content/uploads/2018/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%88%D9%83%D8%B3-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-Fox-Rewayat.png" group-title="Arabic",Fox rewayat
-http://teratv.co:8880/965478123547/zdas54786hgf/46235
+http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
-http://teratv.co:8880/965478123547/zdas54786hgf/8232
+http://zinachannels.zinamedia.net/ar-s/Bein-Drama/index.m3u8
+
 
 #EXTINF:-1 tvg-name="dizi" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2020/07/timeless-dizi-channel-logo.png" group-title="Arabic",dizi 
-https://7jlive.tooli-tv.com/live/149008_2.m3u8?session=&location=
+
+http://zinachannels.zinamedia.net/ar-s/Dizi-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BADAWYA DRAMA" tvg-logo="" group-title="Arabic",BADAWYA DRAMA
 http://freearabic.zinamedia.net/ar/Drama-Al-Badawya/index.m3u8
