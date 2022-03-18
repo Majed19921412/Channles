@@ -68,9 +68,9 @@ http://zinachannels.zinamedia.net/ar-s/OSN-Yahal-1/index.m3u8
 http://zinachannels.zinamedia.net/ar-s/osn-yahala-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="ART Hekayat " tvg-logo="https://content.osn.com/logo/channel/cropped/HK1.png" group-title="Arabic ",ART Hekayat 
-http://teratv.co:8880/965478123547/zdas54786hgf/32182
+http://zinachannels.zinamedia.net/ar-s/OSN-ART-Hekayat1/index.m3u8
 #EXTINF:-1 tvg-name="ART Hekayat 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HK2.png" group-title="Arabic ",ART Hekayat 2
-http://teratv.co:8880/965478123547/zdas54786hgf/32183
+http://zinachannels.zinamedia.net/ar-s/ART-Hekayat2/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://gobx.com/wp-content/uploads/2019/05/MBC-Variety.png" group-title="Entertainment",MBC Variety 
 https://7jlive.tooli-tv.com/live/149017_2.m3u8?session=&location=
@@ -154,7 +154,7 @@ http://freearabic.zinamedia.net/ar/Fujairah-TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://scontent.fjed2-1.fna.fbcdn.net/v/t1.6435-9/126096999_4630073927066772_2413993649400113822_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=PsH_ROYr3zsAX9tOGrb&_nc_ht=scontent.fjed2-1.fna&oh=46bbad363483a2532f2ddfd9b3e6c3ee&oe=61990931" group-title="Arabic",Funoon
-http://teratv.co:8880/965478123547/zdas54786hgf/59679
+http://free1.zinamedia.net/ar/Funoon/index.m3u8
 
 #EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic ",ATV
 http://teratv.co:8880/965478123547/zdas54786hgf/59667
@@ -268,13 +268,16 @@ http://freearabic.zinamedia.net/ar/TITKtOXL/index.m3u8
 https://7jlive.tooli-tv.com/live/149152_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="DMC " tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Arabic ",DMC 
-https://7jlive.tooli-tv.com/live/148040_2.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/DMC-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="DMC Drama " tvg-logo="https://media.elcinema.com/tvguide/1292_2.png" group-title="Arabic ",DMC Drama 
-https://7jlive.tooli-tv.com/live/148220_1.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/DMC-Drama/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CBC TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/CBC_Logo_Hub_C.png" group-title="Arabic",CBC TV
-https://7jlive.tooli-tv.com/live/149217_1.m3u8?session=&location=
+
+
+http://freearabic.zinamedia.net/ar/CBC-TV/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CBC Drama TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Drama_Logo_Hub_C.png" group-title="Arabic",CBC Drama TV
 http://teratv.co:8880/965478123547/zdas54786hgf/38799
 
@@ -294,10 +297,17 @@ https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 https://7jlive.tooli-tv.com/live/149198_1.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="Eygpt TV " tvg-logo="https://www.maspero.eg/wps/wcm/connect/3bd49802-3d5e-4a8c-8c2a-22244db3bea2/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A.jpeg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3bd49802-3d5e-4a8c-8c2a-22244db3bea2-n21hALG" group-title="Arabic",Eygpt TV
-https://7jlive.tooli-tv.com/live/149029_0.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/Masriya-AlOula/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="alkaherawalnas" tvg-logo="http://www.alkaherawalnas.com/wp-content/uploads/2018/01/Artboard-1.png" group-title="Arabic",alkaherawalnas
 https://7jlive.tooli-tv.com/live/149182_0.m3u8?session=&location=
+
+
+
+http://freearabic.zinamedia.net/ar/Nile-Drama/index.m3u8
+
+
+http://freearabic.zinamedia.net/ar/Nile-TV/index.m3u8
 
 
 
@@ -312,7 +322,7 @@ http://teratv.co:8880/965478123547/zdas54786hgf/8232
 https://7jlive.tooli-tv.com/live/149008_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="BADAWYA DRAMA" tvg-logo="" group-title="Arabic",BADAWYA DRAMA
-http://teratv.co:8880/965478123547/zdas54786hgf/46511
+http://freearabic.zinamedia.net/ar/Drama-Al-Badawya/index.m3u8
 
 #EXTINF:-1 tvg-name="Citruss tv" tvg-logo="https://statics.citrusstv.com/media/logo/stores/7/citruss_logo_ar-v1.0.png" group-title="Arabic",Citruss tv
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
@@ -684,7 +694,7 @@ https://7jlive.tooli-tv.com/live/149492_2.m3u8?session=&location=
 https://7jlive.tooli-tv.com/live/290062_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="Sport",SSC 1 
-https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index_3.m3u8
+http://localchannels.zinamedia.net/ar-s/SSC1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="Sport",SSC 2 
 
 http://localchannels.zinamedia.net/ar-s/SSC2/index.m3u8
