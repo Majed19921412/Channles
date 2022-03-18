@@ -54,7 +54,9 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="Arabic",LBC
-https://7jlive.tooli-tv.com/live/149265_2.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar/RRUMnruLcb/index.m3u8
+
 
 #EXTINF:-1 tvg-name="OSN Ya Hala Al Oula" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="Arabic",OSN Ya Hala Al Oula
 
@@ -142,8 +144,8 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/kabtv_chunks.m3u8
 
 #EXTINF:-1  tvg-name="Fujaira " tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhpJU5qJWdUPu-XaxiN1UnsuViKJGqH9wthg9ro=s88-c-k-c0x00ffffff-no-rj"  group-title="Arabic",Fujaira 
-http://teratv.co:8880/965478123547/zdas54786hgf/59716
 
+http://freearabic.zinamedia.net/ar/Fujairah-TV/index.m3u8
 
 
 
@@ -161,15 +163,21 @@ http://teratv.co:8880/965478123547/zdas54786hgf/59667
 https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1  tvg-name="KTV 1 " tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_1_new.png" group-title="Arabic",KTV 1 
-https://7jlive.tooli-tv.com/live/149094_2.m3u8?session=&location=
+
+http://zinachannels.zinamedia.net/ar/Kuwait-HD/index.m3u8
 
 #EXTINF:-1  tvg-name="KTV 2 " tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_2_new.png" group-title="Arabic",KTV 2 
-https://7jlive.tooli-tv.com/live/149095_2.m3u8?session=&location=
+
+
+http://zinachannels.zinamedia.net/ar/Kuwait-CH2-HD/index.m3u8
+
 #EXTINF:-1  tvg-name="KTV Arabi " tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_arabe_new.png" group-title="Arabic",KTV Arabi 
-https://7jlive.tooli-tv.com/live/149088_2.m3u8?session=&location=
+
+http://zinachannels.zinamedia.net/ar/Kuwait-Arabia-HD/index.m3u8
 
 #EXTINF:-1  tvg-name="KTV Drama" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_khallek_new.png" group-title="Arabic",KTV Drama 
-https://7jlive.tooli-tv.com/live/149090_2.m3u8?session=&location=
+
+http://zinachannels.zinamedia.net/ar/kuwait-Khalik-Bilbait/index.m3u8
 
 #EXTINF:-1 tvg-name="KTV Al Qurain" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_plus_new.png" group-title="Arabic",KTV Al Qurain 
 http://teratv.co:8880/965478123547/zdas54786hgf/59666
@@ -179,10 +187,12 @@ http://teratv.co:8880/965478123547/zdas54786hgf/59666
 https://media.streambrothers.com:1936/8724/8724/chunklist_w1294447816.m3u8
 
 #EXTINF:-1 tvg-name="Al Bahrain TV "  tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" tvg-url="" group-title="Arabic",Bahrain TV 
-https://7jlive.tooli-tv.com/live/60154_2.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar/Bahrain-TV-HD/index.m3u8
+
 #EXTINF:-1 tvg-name="Bahrain International "  tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" group-title="Arabic",Bahrain International 
 
-https://7jlive.tooli-tv.com/live/60151_2.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/Bahrain-International/index.m3u8
 
 #EXTINF:-1 tvg-name="Qatar TV" tvg-logo="https://pbs.twimg.com/profile_images/1208449656717533187/UCKQU9NL_400x400.jpg" group-title="Arabic",Qatar TV
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master576p.m3u8
@@ -217,34 +227,42 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Lana" tvg-logo="https://www.akhbarkalaan.com/wp-content/uploads/2021/05/lana-tv.jpg" group-title="Arabic",Lana
-https://7jlive.tooli-tv.com/live/149096_1.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="Arabic",Syria drama 
-http://teratv.co:8880/965478123547/zdas54786hgf/418
 
+
+http://freearabic.zinamedia.net/ar/Syria-Drama/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="Arabic",Syria
 
-http://teratv.co:8880/965478123547/zdas54786hgf/4301
+http://freearabic.zinamedia.net/ar/SYRIA/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International " tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="Arabic",LBC International 
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index_1.m3u8
+
+http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
 
 #EXTINF:-1  tvg-name="MTV " tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Arabic ", MTV 
-https://7jlive.tooli-tv.com/live/470_2.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar-s/SQTNvwHXFS/index.m3u8
 
 #EXTINF:-1  tvg-name="Future " tvg-logo="http://www.futuretvnetwork.com/images/logo-n2.png" group-title="Arabic ", Future 
-http://teratv.co:8880/965478123547/zdas54786hgf/394
+
+http://freearabic.zinamedia.net/ar/jbaCLqNKnA/index.m3u8
 
 #EXTINF:-1  tvg-name="Aljadeed" tvg-logo="https://www.filepicker.io/api/file/NvXGJ9byTi6BoeSFG9sZ" group-title="Arabic ", Aljadeed
-https://7jlive.tooli-tv.com/live/381_2.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar/gjtNyPhwJn/index.m3u8
 
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Arabic ", OTV
-https://7jlive.tooli-tv.com/live/117_2.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar/DMPhDqLYzE/index.m3u8
 
 #EXTINF:-1  tvg-name="NBN" tvg-logo="https://imcdn.org/uploads/2019/01/nbn-300x178.gif" group-title="Arabic ", NBN
-https://7jlive.tooli-tv.com/live/148003_2.m3u8?session=&location=
+
+http://freearabic.zinamedia.net/ar/TITKtOXL/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Alaan " tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Arabic",Alaan 
 https://7jlive.tooli-tv.com/live/149152_2.m3u8?session=&location=
@@ -313,7 +331,9 @@ http://freearabic.zinamedia.net/ar/Quraan-Sunnah/index.m3u8
 #EXTINF:-1 tvg-id="noordubai.ae" tvg-name="Noor Dubai" tvg-logo="https://www.noordubai.com/etc/designs/noordubai/orginal/static/images/logo-noordubai.png" group-title="Islamic",Noor Dubai
 https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-name="KTV Ethraa" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_ethraa_new.png" group-title="Islamic",KTV Ethraa 
-https://7jlive.tooli-tv.com/live/149089_2.m3u8?session=&location=
+
+http://zinachannels.zinamedia.net/ar/Kuwait-AlThraa-HD/index.m3u8
+
 
 #EXTINF:-1 tvg-name="Iqraa"  tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Islamic",Iqraa 
 https://iqraac.cdn.mgmlcdn.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
@@ -556,7 +576,7 @@ https://7jlive.tooli-tv.com/live/149250_2.m3u8?session=&location=
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1  tvg-name="RT"  tvg-logo="http://logo.panel.cx/logo/NEWS%26FACTUAL/RTARAB.png" tvg-url="" group-title="News",RT
-https://rt-arb.gcdn.co/live/rtarab/playlist_2500Kb.m3u8
+http://freearabic.zinamedia.net/ar/RT-Arab/index.m3u8
 
 #EXTINF:-1  tvg-name="TRT Rrabi"   tvg-logo="https://cne-eg.com/uploads/logos/20199113157992.png" group-title="News",TRT Rrabi
 https://7jlive.tooli-tv.com/live/148182_2.m3u8?session=&location=
@@ -749,12 +769,20 @@ https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklis
 
 
 #EXTINF:-1 tvg-name="Bahrain Sport 1 "  tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" tvg-url="" group-title="Sport",Bahrain Sport 1 
-https://7jlive.tooli-tv.com/live/60152_2.m3u8?session=&location=
+
+
+http://localchannels.zinamedia.net/ar/Bahrain-Sport-1-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Bahrain Sport 2 "  tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" tvg-url="" group-title="Sport",Bahrain Sport 2 
-https://7jlive.tooli-tv.com/live/60153_2.m3u8?session=&location=
+
+
+http://localchannels.zinamedia.net/ar/Bahrain-Sport-2-HD/index.m3u8
+
+
 #EXTINF:-1 tvg-name="KTV Sport  "  tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_sport_new.png" tvg-url="" group-title="Sport",KTV Sport  
-https://7jlive.tooli-tv.com/live/149092_2.m3u8?session=&location=
+
+http://localchannels.zinamedia.net/ar/Kuwait-Sport-HD/index.m3u8
+
 
 #EXTINF:-1 tvg-name=" Sharjah Sport" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" group-title="Sport",Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
