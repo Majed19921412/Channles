@@ -97,7 +97,7 @@ http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37794
 #EXTINF:-1 tvg-name="Star World " tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="Entertainment",Star World 
 http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130077
 
-#EXTINF:-1 tvg-name="Fox Crime" tvg-logo="https://cne-eg.com/uploads/logos/20199112934885.png"  group-title="Movies",Fox Crime
+#EXTINF:-1 tvg-name="Fox Crime" tvg-logo="https://cne-eg.com/uploads/logos/20199112934885.png"  group-title="Entertainment",Fox Crime
 http://free1.zinamedia.net/ar-s/Fox-crime-Hd/index.m3u8
 
 #EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="Entertainment",beIN Series 1 
@@ -1022,9 +1022,11 @@ http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37788
 #EXTINF:-1 tvg-name="OSN Enigma " tvg-logo="https://content.osn.com/logo/channel/cropped/OCM.png" group-title="Movies   ",OSN Enigma 
 http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37792
 
+#EXTINF:-1 tvg-name="OSN Action " tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="Movies   ",OSN Action 
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37792
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="",OSN Action
-http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37791
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN Family" tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="Movies",OSN Family
 http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130057
