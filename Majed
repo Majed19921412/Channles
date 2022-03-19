@@ -86,14 +86,23 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1  tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Entertainment",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
-#EXTINF:-1  tvg-name="FX" tvg-logo="https://assets.fxnetworks.com/images/fx_logo_white_compact.png" group-title="Entertainment",FX 
-http://teratv.co:8880/965478123547/zdas54786hgf/104092
+#EXTINF:-1 tvg-name="OSN Series First " tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="Entertainment",OSN Series First 
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37793
+#EXTINF:-1 tvg-name="OSN Series  " tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="Entertainment",OSN Series  
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37797
 
-#EXTINF:-1  tvg-name="FOX HD" tvg-logo="https://cne-eg.com/uploads/logos/20199112211881.png" group-title="Entertainment  ",FOX HD
+#EXTINF:-1  tvg-name="OSN Comedy " tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="Entertainment",OSN Comedy 
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37794
 
+#EXTINF:-1 tvg-name="Star World " tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="Entertainment",Star World 
+http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130077
+
+#EXTINF:-1 tvg-name="Fox Crime" tvg-logo="https://cne-eg.com/uploads/logos/20199112934885.png"  group-title="Movies",Fox Crime
 http://free1.zinamedia.net/ar-s/Fox-crime-Hd/index.m3u8
+
 #EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="Entertainment",beIN Series 1 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3084
+
 #EXTINF:-1 tvg-name="beIN Series 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021123838894.png"    group-title="Entertainment",beIN Series 2 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5087
 
@@ -158,7 +167,7 @@ http://freearabic.zinamedia.net/ar/Fujairah-TV/index.m3u8
 http://free1.zinamedia.net/ar/Funoon/index.m3u8
 
 #EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic ",ATV
-http://teratv.co:8880/965478123547/zdas54786hgf/59667
+http://freearabic.zinamedia.net/ar/Atv-Aladalah/index.m3u8
 
 #EXTINF:-1 tvg-name=" scope tv" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/177/617fe27f22.jpg" group-title="Arabic ",scope tv
 https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
@@ -181,7 +190,7 @@ http://zinachannels.zinamedia.net/ar/Kuwait-Arabia-HD/index.m3u8
 http://zinachannels.zinamedia.net/ar/kuwait-Khalik-Bilbait/index.m3u8
 
 #EXTINF:-1 tvg-name="KTV Al Qurain" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_plus_new.png" group-title="Arabic",KTV Al Qurain 
-http://teratv.co:8880/965478123547/zdas54786hgf/59666
+http://zinachannels.zinamedia.net/ar/Kuwait-Quran-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Alrai" tvg-logo="https://media.elcinema.com/tvguide/1170_2.png" group-title="Arabic",Alrai
@@ -266,7 +275,7 @@ http://freearabic.zinamedia.net/ar/DMPhDqLYzE/index.m3u8
 http://freearabic.zinamedia.net/ar/TITKtOXL/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Alaan " tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Arabic",Alaan 
-https://7jlive.tooli-tv.com/live/149152_2.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/Alaan-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DMC " tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Arabic ",DMC 
 http://freearabic.zinamedia.net/ar/DMC-TV/index.m3u8
@@ -319,6 +328,14 @@ http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
 http://zinachannels.zinamedia.net/ar-s/Bein-Drama/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Alfa Al Yawm" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="Arabic",Alfa Al Yawm
+http://zinachannels.zinamedia.net/ar-s/AlYawm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Musalslat " tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png"  tvg-logo="" group-title="Arabic",ALFA Musalslat 
+http://zinachannels.zinamedia.net/ar-s/OSN-Musalsalat/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA Musalsalat +2 " tvg-logo="https://content.osn.com/logo/channel/cropped/SE4.png" group-title="Arabic",ALFA Musalsalat +2 
+http://zinachannels.zinamedia.net/ar-s/OSN-Musalsalat-2/index.m3u8
 
 #EXTINF:-1 tvg-name="dizi" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2020/07/timeless-dizi-channel-logo.png" group-title="Arabic",dizi 
 
@@ -907,6 +924,16 @@ https://7jlive.tooli-tv.com/live/60058_1.m3u8?session=&location=
 #EXTINF:-1 tvg-name=" mazzika" tvg-logo="https://mazzikagroup.com/wp-content/uploads/2020/03/8-e1576343995678.png" group-title="Music", mazzika
 https://7jlive.tooli-tv.com/live/148067_0.m3u8?session=&location=
 
+#EXTINF:-1 tvg-name="Alfa Fann" tvg-logo="https://content.osn.com/logo/channel/cropped/FAN.png" group-title="Music",Alfa Fann
+http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/21184
+
+#EXTINF:-1 tvg-name="Music Now" tvg-logo="https://content.osn.com/logo/channel/cropped/NOW.png" group-title="Music",Music Now
+http://cobraa.in:8000/159587015460/5f9fec21e7766/2588
+
+
+
+
+
 #EXTINF:-1  tvg-name="OSN Ya Hala Cinema" tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png" group-title="Movies",OSN Ya Hala Cinema
 
 http://teratv.co:8880/965478123547/zdas54786hgf/32177
@@ -921,6 +948,13 @@ http://teratv.co:8880/965478123547/zdas54786hgf/114351
 #EXTINF:-1 tvg-name="ART Cinema" tvg-logo="https://content.osn.com/logo/channel/cropped/ACM.png" group-title="Movies",ART Cinema
 http://teratv.co:8880/965478123547/zdas54786hgf/132952
 
+#EXTINF:-1 tvg-id="" tvg-name="ALFA CINEMA 1 " tvg-logo="https://content.osn.com/logo/channel/cropped/CM1.png" group-title="Movies",ALFA CINEMA 1
+
+http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130082
+
+#EXTINF:-1 tvg-id="" tvg-name="ALFA CINEMA 2 " tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png" group-title="Movies",ALFA CINEMA 2 
+
+http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130083
 
 #EXTINF:-1  tvg-name="Rotana Cinema KSA " tvg-logo="https://rotana.net/triAssets/uploads/2020/11/cinema.png" group-title="Movies",Rotana Cinema KSA 
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
@@ -934,6 +968,13 @@ https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a
 
 #EXTINF:-1 tvg-name="Rotana Comeday" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Rotana_Comedy_Logo.png" group-title="Movies",Rotana Comeday
 https://7jlive.tooli-tv.com/live/701_2.m3u8?session=&location=
+
+#EXTINF:-1 tvg-name="Rotana Aflam+" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/aflam-plus.png?v=3" group-title="Movies",Rotana Aflam+
+
+http://teratv.co:8880/965478123547/zdas54786hgf/89804
+
+
+
 
 #EXTINF:-1 tvg-name="Nile Cinema" tvg-logo="https://media.elcinema.com/tvguide/1157_1.png" group-title="Movies",Nile Cinema
 https://7jlive.tooli-tv.com/live/148083_2.m3u8?session=&location=
@@ -957,6 +998,10 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-name="B4U Aflam" tvg-logo="https://static.wixstatic.com/media/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.png/v1/fill/w_268,h_225,al_c,q_85,usm_0.66_1.00_0.01/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.webp" group-title="Movies",B4U Aflam
 https://tr149.tooliserver.com/live/149208_.m3u8
 
+#EXTINF:-1 tvg-name="Fox Movies" tvg-logo="https://cne-eg.com/uploads/logos/20199113542909.png"    group-title="Movies",Fox Movies
+http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/4270
+
+
 #EXTINF:-1 tvg-name="FOX Action Movies" tvg-logo="https://cne-eg.com/uploads/logos/20199113555944.png"    group-title="Movies",FOX Action Movies
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5406
 
@@ -964,6 +1009,28 @@ http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5406
 
 #EXTINF:-1 tvg-name="FOX Family Movies " tvg-logo="https://cne-eg.com/uploads/logos/201991136810.png" group-title="Movies ",FOX Family Movies 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5407
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="Movies   ",Star Movies
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37778
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="Movies",OSN Movies First
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37788
+
+
+#EXTINF:-1 tvg-name="OSN Enigma " tvg-logo="https://content.osn.com/logo/channel/cropped/OCM.png" group-title="Movies   ",OSN Enigma 
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37792
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Action" tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="",OSN Action
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37791
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Family" tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="Movies",OSN Family
+http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130057
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="Movies",OSN Movies 
+http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37790
 
 
 #EXTINF:-1 tvg-name=" Bein Movies Premiere 1 " " tvg-logo="https://cne-eg.com/uploads/logos/2021141542830.png"   group-title="Movies", Bein Movies Premiere 1 
