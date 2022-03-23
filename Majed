@@ -885,15 +885,20 @@ http://localchannels.zinamedia.net/ar-s/BrCackYK-stop/index.m3u8
 http://teratv.co:8880/965478123547/zdas54786hgf/157651
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS MAX 1 " tvg-logo="https://cne-eg.com/uploads/logos/202111458122.png" group-title="Sport",beINSPORTS MAX 1 
-http://teratv.co:8880/965478123547/zdas54786hgf/233673
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS MAX 2 " tvg-logo="https://cne-eg.com/uploads/logos/202111435859.png" group-title="Sport",beINSPORTS MAX 2 
-http://teratv.co:8880/965478123547/zdas54786hgf/233672
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS MAX 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021124049660.png" group-title="Sport",beINSPORTS MAX 3 
-http://teratv.co:8880/965478123547/zdas54786hgf/157669
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT AFC
 
+http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT AFC 1
+
+http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT AFC 2
+
+http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT AFC 3
+http://51.195.234.238:8080/ar-s/bein-afc-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 1 " tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 1 
 http://teratv.co:8880/965478123547/zdas54786hgf/35010
 #EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 2  
