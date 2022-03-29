@@ -495,24 +495,24 @@ https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000
 https://7jlive.tooli-tv.com/live/149001_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://content.osn.com/logo/channel/cropped/NGO.png" group-title="Factual",National Geographic
-http://teratv.co:8880/965478123547/zdas54786hgf/19017
+http://zinachannels.zinamedia.net/ar-s/National-Geographic/index.m3u8
 
 #EXTINF:-1 tvg-name="Nat Wild" tvg-logo="https://content.osn.com/logo/channel/cropped/NHD.png" group-title="Factual",Nat Wild
-http://teratv.co:8880/965478123547/zdas54786hgf/19018
+http://zinachannels.zinamedia.net/ar-s/Nat-Geo-Wild-Hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Factual",Animal Planet
-http://teratv.co:8880/965478123547/zdas54786hgf/18996
+http://zinachannels.zinamedia.net/ar-s/Animal-Planet-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="Factual",Discovery
-http://teratv.co:8880/965478123547/zdas54786hgf/18999
+http://zinachannels.zinamedia.net/ar-s/Discovery-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Science_logo.svg/1200px-Science_logo.svg.png" group-title="Factual",Discovery Science
-http://teratv.co:8880/965478123547/zdas54786hgf/19005
+http://zinachannels.zinamedia.net/ar-s/Discovery-Science-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery ID" tvg-logo="https://content.osn.com/logo/channel/cropped/DCX.png" group-title="Factual",Discovery ID
-http://teratv.co:8880/965478123547/zdas54786hgf/32149
+http://zinachannels.zinamedia.net/ar-s/Discovary-ID/index.m3u8
 
 #EXTINF:-1 tvg-name="Discovery Family " tvg-logo="https://i.pinimg.com/564x/4c/c9/b6/4cc9b687b62e8f6410bb32939601f657.jpg" group-title="Factual",Discovery Family 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3583
@@ -522,7 +522,7 @@ http://sabtooh.club:8000/792787557368/60cef92c92609.34415/4387
 
 
 #EXTINF:-1 tvg-name="History" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="Factual",History
-http://teratv.co:8880/965478123547/zdas54786hgf/32156
+http://zinachannels.zinamedia.net/ar-s/Discovary-ID/index.m3u8
 #EXTINF:-1 tvg-name="History 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HI2.png" group-title="Factual",History 2
 http://teratv.co:8880/965478123547/zdas54786hgf/18992
 
