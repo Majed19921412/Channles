@@ -862,26 +862,26 @@ http://localchannels.zinamedia.net/ar-s/WhKxECvZSk/index.m3u8
 http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="Sport",beIN SPORTS 1 
-http://localchannels.zinamedia.net/ar-s/lpWyPaQm-stop/index.m3u8
+http://51.195.234.238:8080/ar-s/bein-1-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="Sport",BEIN SPORTS 2 
-http://localchannels.zinamedia.net/ar-s/RTklrSCO-stop/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3 
-http://localchannels.zinamedia.net/ar-s/iBrXOtHZ-stop/index.m3u8
+http://198.244.203.56:8080/ar-s/bein-2-stop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3
+http://51.195.234.238:8080/ar-s/bein-3-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="Sport",beINSPORTS 4 
-http://localchannels.zinamedia.net/ar-s/EJECWxsf-stop/index.m3u8
+http://51.195.234.238:8080/ar-s/bein-4-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="Sport",beINSPORTS 5 
-http://localchannels.zinamedia.net/ar-s/tLtFFTQJ-stop/index.m3u8
+http://141.95.206.174:8080/ar-s/bein-5-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="Sport",beINSPORTS 6 
-http://localchannels.zinamedia.net/ar-s/fjDpwwUG-stop/index.m3u8
+http://198.244.203.56:8080/ar-s/bein-6-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="Sport",beINSPORTS 7 
-http://localchannels.zinamedia.net/ar-s/yOQslDCT-stop/index.m3u8
+http://198.244.203.56:8080/ar-s/bein-7-stop/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" group-title="Sport",beINSPORTS 1 PREMIUM
-http://localchannels.zinamedia.net/ar-s/iDYAvpCE-stop/index.m3u8
+http://141.95.206.174:8080/ar-s/B-S-pre-1-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" group-title="Sport",beINSPORTS 2 PREMIUM
 http://51.195.234.238:8080/ar-s/B-S-pre-2-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" group-title="Sport",beINSPORTS 3 PREMIUM
-http://localchannels.zinamedia.net/ar-s/BrCackYK-stop/index.m3u8
+http://141.95.206.174:8080/ar-s/B-S-pre-3-stop/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS NBA " tvg-logo="https://cne-eg.com/uploads/logos/20211415532342.png" group-title="Sport",beINSPORTS NBA 
 http://teratv.co:8880/965478123547/zdas54786hgf/157651
@@ -890,7 +890,7 @@ http://teratv.co:8880/965478123547/zdas54786hgf/157651
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="Sport",beIN SPORT AFC
 
-http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
+http://51.195.234.238:8080/ar-s/bein-afc-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/20222251027902.png" group-title="Sport",beIN SPORT AFC 1
 
