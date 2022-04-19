@@ -72,6 +72,12 @@ http://zinachannels.zinamedia.net/ar-s/OSN-ART-Hekayat1/index.m3u8
 #EXTINF:-1 tvg-name="ART Hekayat 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HK2.png" group-title="Arabic ",ART Hekayat 2
 http://zinachannels.zinamedia.net/ar-s/ART-Hekayat2/index.m3u8
 
+#EXTINF:-1 tvg-name="Fox rewayat" tvg-logo="https://www.ngmisr.com/wp-content/uploads/2018/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%88%D9%83%D8%B3-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-Fox-Rewayat.png" group-title="Arabic",Fox rewayat
+http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
+http://zinachannels.zinamedia.net/ar-s/Bein-Drama/index.m3u8
+
 #EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://gobx.com/wp-content/uploads/2019/05/MBC-Variety.png" group-title="Entertainment",MBC Variety 
 
 http://zinachannels.zinamedia.net/ar-s/MBC-Variety/index.m3u8
@@ -322,11 +328,7 @@ http://freearabic.zinamedia.net/ar/Nile-TV/index.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Fox rewayat" tvg-logo="https://www.ngmisr.com/wp-content/uploads/2018/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%88%D9%83%D8%B3-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-Fox-Rewayat.png" group-title="Arabic",Fox rewayat
-http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
 
-#EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
-http://zinachannels.zinamedia.net/ar-s/Bein-Drama/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Alfa Al Yawm" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="Arabic",Alfa Al Yawm
 http://zinachannels.zinamedia.net/ar-s/AlYawm/index.m3u8
