@@ -55,7 +55,7 @@ https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="Arabic",LBC
 
-http://freearabic.zinamedia.net/ar/RRUMnruLcb/index.m3u8
+http://freearabic.zinamedia.net/ar/LBC/index.m3u8
 
 
 #EXTINF:-1 tvg-name="OSN Ya Hala Al Oula" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="Arabic",OSN Ya Hala Al Oula
@@ -170,7 +170,7 @@ http://freearabic.zinamedia.net/ar/Fujairah-TV/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://scontent.fjed2-1.fna.fbcdn.net/v/t1.6435-9/126096999_4630073927066772_2413993649400113822_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=973b4a&_nc_ohc=PsH_ROYr3zsAX9tOGrb&_nc_ht=scontent.fjed2-1.fna&oh=46bbad363483a2532f2ddfd9b3e6c3ee&oe=61990931" group-title="Arabic",Funoon
-http://free1.zinamedia.net/ar/Funoon/index.m3u8
+http://t1ip-free1.zinamedia.net/ar/Funoon/index.m3u8
 
 #EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic ",ATV
 http://freearabic.zinamedia.net/ar/Atv-Aladalah/index.m3u8
@@ -221,10 +221,10 @@ https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 
 
 #EXTINF:-1  tvg-name="Oman TV" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arabic",Oman TV 
-https://7jlive.tooli-tv.com/live/148010_2.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/OMAN-General-TV/index.m3u8
 
 #EXTINF:-1  tvg-name="Oman Mubasher" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="Arabic",Oman Mubasher
-https://7jlive.tooli-tv.com/live/148011_2.m3u8?session=&location=
+http://zinachannels.zinamedia.net/ar/Oman-HD/index.m3u8
 
 
 
@@ -262,23 +262,23 @@ http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
 
 #EXTINF:-1  tvg-name="MTV " tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Arabic ", MTV 
 
-http://freearabic.zinamedia.net/ar-s/SQTNvwHXFS/index.m3u8
+http://freearabic.zinamedia.net/ar-s/mtv-tv/index.m3u8
 
 #EXTINF:-1  tvg-name="Future " tvg-logo="http://www.futuretvnetwork.com/images/logo-n2.png" group-title="Arabic ", Future 
 
-http://freearabic.zinamedia.net/ar/jbaCLqNKnA/index.m3u8
+http://freearabic.zinamedia.net/ar/Future-TV/index.m3u8
 
 #EXTINF:-1  tvg-name="Aljadeed" tvg-logo="https://www.filepicker.io/api/file/NvXGJ9byTi6BoeSFG9sZ" group-title="Arabic ", Aljadeed
 
-http://freearabic.zinamedia.net/ar/gjtNyPhwJn/index.m3u8
+http://freearabic.zinamedia.net/ar/aljadeed/index.m3u8
 
 #EXTINF:-1  tvg-name="OTV" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Arabic ", OTV
 
-http://freearabic.zinamedia.net/ar/DMPhDqLYzE/index.m3u8
+http://freearabic.zinamedia.net/ar/OTV-TV/index.m3u8
 
 #EXTINF:-1  tvg-name="NBN" tvg-logo="https://imcdn.org/uploads/2019/01/nbn-300x178.gif" group-title="Arabic ", NBN
 
-http://freearabic.zinamedia.net/ar/TITKtOXL/index.m3u8
+http://freearabic.zinamedia.net/ar/NBN-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Alaan " tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="Arabic",Alaan 
 http://freearabic.zinamedia.net/ar/Alaan-TV/index.m3u8
@@ -295,29 +295,28 @@ http://freearabic.zinamedia.net/ar/DMC-Drama/index.m3u8
 http://freearabic.zinamedia.net/ar/CBC-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CBC Drama TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Drama_Logo_Hub_C.png" group-title="Arabic",CBC Drama TV
-http://teratv.co:8880/965478123547/zdas54786hgf/38799
+http://freearabic.zinamedia.net/ar/rCUGxpGspm/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="ON " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png" group-title="Arabic ",ON 
-https://7jlive.tooli-tv.com/live/148006_2.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/On-E/index.m3u8
 #EXTINF:-1 tvg-name="ON Drama " tvg-logo="https://media.elcinema.com/tvguide/1134_2.png" group-title="Arabic ",ON Drama 
-http://teratv.co:8880/965478123547/zdas54786hgf/98721
+http://freearabic.zinamedia.net/ar/ON-Drama/index.m3u8
 #EXTINF:-1 tvg-name="Al Hayat TV" tvg-logo="https://media.elcinema.com/tvguide/1137_2.png" group-title="Arabic ",Al Hayat TV
-https://7jlive.tooli-tv.com/live/149045_2.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/QygtuaXFvc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alhayat Drama" tvg-logo="http://www.vod-logo.net/photos/5d4c3d55e7f0330f1fca9ca60d96391f.jpg" group-title="Arabic",Alhayat Drama
-http://teratv.co:8880/965478123547/zdas54786hgf/38770
+http://freearabic.zinamedia.net/ar/Alhayat-Muslsalat/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ten TV " tvg-logo="https://www.ten.tv/frontend/assets/images/ten.png" group-title="Arabic",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="alnahar" tvg-logo="" group-title="Arabic",alnahar
-https://7jlive.tooli-tv.com/live/149198_1.m3u8?session=&location=
+http://freearabic.zinamedia.net/ar/AL-Nahar-One/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Eygpt TV " tvg-logo="https://www.maspero.eg/wps/wcm/connect/3bd49802-3d5e-4a8c-8c2a-22244db3bea2/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9+%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A.jpeg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-3bd49802-3d5e-4a8c-8c2a-22244db3bea2-n21hALG" group-title="Arabic",Eygpt TV
 http://freearabic.zinamedia.net/ar/Masriya-AlOula/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="alkaherawalnas" tvg-logo="http://www.alkaherawalnas.com/wp-content/uploads/2018/01/Artboard-1.png" group-title="Arabic",alkaherawalnas
-https://7jlive.tooli-tv.com/live/149182_0.m3u8?session=&location=
-
+http://freearabic.zinamedia.net/ar/Alkahera-Wal-Nas/index.m3u8
 
 
 http://freearabic.zinamedia.net/ar/Nile-Drama/index.m3u8
