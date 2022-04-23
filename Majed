@@ -402,7 +402,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 
 #EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="Kids",Majid 
-http://zinachannels.zinamedia.net/ar-s/Majd-Kids/index.m3u8
+http://t1ip-zinachannels.zinamedia.net/ar-s/Majd-Kids/index.m3u8?md5=cTp2p40k2h42_gC1VuV39w&expires=1650763976
 
 
 #EXTINF:-1 tvg-name="gulli " tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Image-1.png" group-title="Kids",gulli 
@@ -470,7 +470,7 @@ http://t1ip-zinachannels.zinamedia.net/ar-s/OSN-KIDS-ZONE/index.m3u8?md5=jNiLCH-
 http://t1ip-zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8?md5=gYkBmKdXTk4mZzg5PPJeUQ&expires=1650763193
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" ,Baraeem
+#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem
 http://t1ip-zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8?md5=Ai4pXeVWc_4rs4g5NkVj1A&expires=1650763193
 
 #EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="Kids",Jeem HD
