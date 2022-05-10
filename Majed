@@ -76,7 +76,7 @@ http://zinachannels.zinamedia.net/ar-s/ART-Hekayat2/index.m3u8
 http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
-http://zinachannels.zinamedia.net/ar-s/Bein-Drama/index.m3u8
+http://t1ip-zinachannels.zinamedia.net/ar-s/Bein-Drama/tracks-v1a1/mono.m3u8?md5=GUDSk4GgPICQEiBzBo1L6g&expires=1652303962
 
 #EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://gobx.com/wp-content/uploads/2019/05/MBC-Variety.png" group-title="Entertainment",MBC Variety 
 
