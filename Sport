@@ -34,11 +34,11 @@ http://s0cd.b-cdn.net/ar-s/yOQslDCT-H265/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122749282.png" ,beINSPORTS 1 PREMIUM
 
-http://1200631223.rsc.cdn77.org/BDFI5fkEz01fmMFzGAcWeg==,1647463733/ar-s/iDYAvpCE-stop/index.m3u8
+http://217.74.16.173:8082/local/ar-s/B-S-pre-1-stop/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 2 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122834751.png" ,beINSPORTS 2 PREMIUM
-http://s0cd.b-cdn.net/ar-s/EcHrXWLB-stop/index.m3u8
+http://217.74.16.156:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" ,beINSPORTS 3 PREMIUM
