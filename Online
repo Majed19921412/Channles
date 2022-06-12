@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" ,Baraeem HD
+
+
+http://zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" ,Jeem HD
+
+
+http://zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8
 
 
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png" group-title="Arabic",Bein Drama 1
