@@ -94,3 +94,14 @@ http://zinachannels.zinamedia.net/ar-s/Bein-Series-2-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Bein Groummet " tvg-logo="https://cne-eg.com/uploads/logos/2021123736269.png"    group-title="Entertainment",Bein Groummet 
 http://zinachannels.zinamedia.net/ar-s/
+
+#EXTINF:-1 tvg-name=" Bein Movies Premiere 1 " " tvg-logo="https://cne-eg.com/uploads/logos/2021141542830.png"   group-title="Movies", Bein Movies Premiere 1 
+http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2388
+#EXTINF:-1 tvg-name=" Bein Movies Action 2 " tvg-logo="https://cne-eg.com/uploads/logos/20211415442623.png"    group-title="Movies", Bein Movies Action 2 
+http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2459
+#EXTINF:-1 tvg-name=" Bein Movies Drama 3 " tvg-logo="https://cne-eg.com/uploads/logos/20211415457389.png"    group-title="Movies", Bein Movies Drama 3 
+http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2617
+#EXTINF:-1 tvg-name="Bein Movies Family 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021141559186.png"    group-title="Movies",Bein Movies Family 4 
+http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2835
+
+
