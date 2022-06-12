@@ -44,3 +44,19 @@ http://217.74.16.156:8082/local/ar-s/B-S-pre-2-stop/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 PREMIUM" tvg-logo="https://cne-eg.com/uploads/logos/2021122252312.png" ,beINSPORTS 3 PREMIUM
 
 http://s0cd.b-cdn.net/ar-s/BrCackYK-stop/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="Sport",beIN SPORT AFC
+
+http://217.74.16.172:8082/tokenv1/local/ar-s/bein-afc-HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/20222251027902.png" group-title="Sport",beIN SPORT AFC 1
+
+http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/20222251056793.png" group-title="Sport",beIN SPORT AFC 2
+
+http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/20222251145481.png" group-title="Sport",beIN SPORT AFC 3
+http://51.195.234.238:8080/ar-s/bein-afc-3/index.m3u8
