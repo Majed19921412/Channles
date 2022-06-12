@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png" group-title="Arabic",Bein Drama 1
+
+http://t1ip-zinachannels.zinamedia.net/ar-s/Bein-Drama/tracks-v1a1/mono.m3u8?md5=GUDSk4GgPICQEiBzBo1L6g&expires=1652303962
+
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" ,beIN SPORT NEWS
 http://s0cd.b-cdn.net/ar-s/WhKxECvZSk/index.m3u8
 
