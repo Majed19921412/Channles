@@ -76,3 +76,21 @@ http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
 http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/20222251145481.png" group-title="Sport",beIN SPORT AFC 3
 http://51.195.234.238:8080/ar-s/bein-afc-3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT Xtra 1" tvg-logo="https://cne-eg.com/uploads/logos/20222251027902.png" group-title="Sport",beIN Sport Xtra 1
+
+http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Xtra 2" tvg-logo="https://cne-eg.com/uploads/logos/20222251056793.png" group-title="Sport",beIN SPORT Xtra 2
+
+
+
+#EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="Entertainment",beIN Series 1 
+http://zinachannels.zinamedia.net/ar-s/Bein-Serise1-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="beIN Series 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021123838894.png"    group-title="Entertainment",beIN Series 2 
+http://zinachannels.zinamedia.net/ar-s/Bein-Series-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Bein Groummet " tvg-logo="https://cne-eg.com/uploads/logos/2021123736269.png"    group-title="Entertainment",Bein Groummet 
+http://zinachannels.zinamedia.net/ar-s/
