@@ -1,38 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
-
-
-http://freearabic.zinamedia.net/ar/Saudi-Quraan/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
-
-http://freearabic.zinamedia.net/ar/Quraan-Sunnah/index.m3u8
-
-#EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
-
-http://freearabic.zinamedia.net/ar/Saudi1/index.m3u8
-
-
-#EXTINF:-1 tvg-name="SBC " tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="Arabic",SBC 
-
-
-http://freearabic.zinamedia.net/ar/SBC-HD/index.m3u8
-
-#EXTINF:-1  tvg-name="Thekriyat " tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Arabic",Thekriyat 
-http://zinachannels.zinamedia.net/ar/Thikrayat-HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-name="MBC 1 " tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Arabic",MBC 1 
-
-
-
-http://localchannels.zinamedia.net/ar-s/onc1/index.m3u8
-
-
-
 #EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Arabic",MBC Drama 
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
 
@@ -70,9 +37,6 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
 
 
-#EXTINF:-1 tvg-name="MBC Action " tvg-logo="https://www.mbc.net/dam/jcr:3e5b2510-d3d1-4280-9aaf-b892547ba29c/mbc-action.png" group-title="Entertainment",MBC Action 
-
-http://localchannels.zinamedia.net/ar-s/my-onc-5/index.m3u8
 
 #EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood " tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="Entertainment",MBC Bollywood 
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
