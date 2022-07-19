@@ -185,6 +185,12 @@ https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
 
 
 
+#EXTINF:-1 tvg-name="Nick Jr " tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" ,Nick Jr
+
+ 
+http://t1-zinachannels.zinamedia.net/ar-s/Nick-jr/video.m3u8?md5=sMQneu2hM8aXsYB3IHp2Ug&expires=1658339270
+
+
 
 
 #EXTINF:-1 tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Factual",Al Jazeera Documentary
