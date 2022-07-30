@@ -333,7 +333,7 @@ http://freearabic.zinamedia.net/ar/Nile-TV/index.m3u8
 http://zinachannels.zinamedia.net/ar-s/AlYawm/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ALFA Musalslat " tvg-logo="https://content.osn.com/logo/channel/cropped/SER.png"  tvg-logo="" group-title="Arabic",ALFA Musalslat 
-http://zinachannels.zinamedia.net/ar-s/OSN-Musalsalat/index.m3u8
+http://t1-zinachannels.zinamedia.net/ar-s/OSN-Musalsalat/video.m3u8?md5=ht87AMACDRvybW-GSj8CmA&expires=1659300915
 
 #EXTINF:-1 tvg-id="" tvg-name="ALFA Musalsalat +2 " tvg-logo="https://content.osn.com/logo/channel/cropped/SE4.png" group-title="Arabic",ALFA Musalsalat +2 
 http://zinachannels.zinamedia.net/ar-s/OSN-Musalsalat-2/index.m3u8
