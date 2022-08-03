@@ -838,7 +838,7 @@ https://7jlive.tooli-tv.com/live/149465_2.m3u8?session=&location=
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png" group-title="Sport",Al Kass 1 HD
 
 
-https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh1.smil/playlist.m3u8?hdnts=exp=1659386136~hmac=e7a4188e5e4435af64cc6cfdfa085a22c2d36a22b44d3e2b83fd13d0cec80dd7
+http://217.74.16.173:8082/tokenv1/local/ar-s/Alkass1/video.m3u8?md5=rO0esPEAekr56KG4a_KXKQ&expires=1659569665
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png" group-title="Sport",Al Kass 2 HD
 
