@@ -11,7 +11,7 @@ http://freearabic.zinamedia.net/ar/SBC-HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Thekriyat " tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Arabic",Thekriyat 
 
-http://zinachannels.zinamedia.net/ar/Thikrayat-HD/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660165603/ei/g8nzYtSnCtSnvdIPot6BgA0/ip/2001%3A16a2%3Ac18c%3A30e3%3Af80c%3Af122%3A2a21%3A1b95/id/PdmghsbtPB8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/lT-Khmv6F52TsvdjqbeLeDUIN_zKWFQIeQyUY8SkZ2fQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgMSL5xXq4xzTLQ9ExoN_7H9UNcXAGT0PLZEKdYhdikqgCIQC7QlhqsbSbvW8XIjz7Tne2Wy8MHYt8RxSGl0I9_bx-yQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 " tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Arabic",MBC 1 
 
@@ -353,11 +353,11 @@ https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
 
 
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660165492/ei/FMnzYtTeFKyfxN8PkLmXoAg/ip/2001%3A16a2%3Ac18c%3A30e3%3Af80c%3Af122%3A2a21%3A1b95/id/Qgxv7pkZMnU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/lT-Khq40Vvt08MUPzO47XkcwU7_Xv6FFxifxrMYTYuqX/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKsIEctPOeHXud9iA3-zSitRlHc4yshOzUIhfPE_kfHeAiBGtj88qU_lmpnH--mNKNSG0-3nycz2kwCa33oqdow0YQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
 
-http://freearabic.zinamedia.net/ar/Quraan-Sunnah/index.m3u8
+manifest.googlevideo.com/api/manifest/hls_variant/expire/1660165133/ei/rcfzYomDFYeA0wXB5omoBg/ip/2001%3A16a2%3Ac18c%3A30e3%3Af80c%3Af122%3A2a21%3A1b95/id/dleEwheC0Tg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/lT-Khl0Ft_T46p57qbJXGnRjMk_odmqSQY9ZKF-enKGZ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK_aGUS4dmNR1ENU7RBFxy42sLTI2uVFKYT5Kb93Mb_SAiEA9WIYthfkQIx8BJNxQyqWYARn7eI_G_-HtaniBQ1dkPM%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="noordubai.ae" tvg-name="Noor Dubai" tvg-logo="https://www.noordubai.com/etc/designs/noordubai/orginal/static/images/logo-noordubai.png" group-title="Islamic",Noor Dubai
 https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
@@ -749,7 +749,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 
 #EXTINF:-1  tvg-name="Saudi Sport 1 " tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Sport",Saudi Sport 1 
 
-http://localchannels.zinamedia.net/ar/KSA-Sport-1-HD/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660165718/ei/9snzYpanAb-vxN8P0KyWyAs/ip/2001%3A16a2%3Ac18c%3A30e3%3Af80c%3Af122%3A2a21%3A1b95/id/FCsuvcNWPvs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/lT-KhusxKc3EY46NQ36ZN7k0x1zw0XBUjaYmbZmL_27Z/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM_bnnO614s8b__d-T72azMlkkCSLiDR3F5XwZRizGCOAiEApSenn-0KdcSV0EHYzw9rVpF8UVcfuMNIcYq40QKmC8I%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-id="saudisport1.sa" tvg-name="Saudi Sport 2 " tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Sport",Saudi Sport 2 
