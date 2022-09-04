@@ -836,8 +836,7 @@ https://7jlive.tooli-tv.com/live/149003_2.m3u8?session=&location=
 https://7jlive.tooli-tv.com/live/149465_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png" group-title="Sport",Al Kass 1 HD
-
-https://streamer1.qna.org.qa/26847610_live/26847610_3.sdp/playlist.m3u8
+https://liveb.alkassdigital.net/hls/live/2094545/Alkass1/Alkass1Gai/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png" group-title="Sport",Al Kass 2 HD
