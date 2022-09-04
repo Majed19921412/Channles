@@ -841,12 +841,12 @@ https://liveb.alkassdigital.net/hls/live/2094545/Alkass1/Alkass1Gai/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png" group-title="Sport",Al Kass 2 HD
 
-http://localchannels.zinamedia.net/ar-s/AlKass2/index.m3u8
+https://liveb.alkassdigital.net/hls/live/2094545/Alkass2/Alkass2Gazc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 3 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183143127531.png" group-title="Sport",Al Kass 3 HD
-http://teratv.co:8880/965478123547/zdas54786hgf/40310
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 4 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142520385.png" group-title="Sport",Al Kass 4 HD
-http://teratv.co:8880/965478123547/zdas54786hgf/9336
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 5 HD" tvg-logo="https://cne-eg.com/uploads/logos/2018314320255.png" group-title="Sport",Al Kass 5 HD
 http://teratv.co:8880/965478123547/zdas54786hgf/9334
 
