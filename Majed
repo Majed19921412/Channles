@@ -836,12 +836,12 @@ https://7jlive.tooli-tv.com/live/149003_2.m3u8?session=&location=
 https://7jlive.tooli-tv.com/live/149465_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png" group-title="Sport",Al Kass 1 HD
-https://liveb.alkassdigital.net/hls/live/2094545/Alkass1awz/master.m3u8
+https://liveb.alkassdigital.net/hls/live/2094545/Alkass1awzq/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png" group-title="Sport",Al Kass 2 HD
 
-https://liveb.alkassdigital.net/hls/live/2094545/Alkass2waz/master.m3u8
+https://liveb.alkassdigital.net/hls/live/2094545/Alkass2wazq/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 3 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183143127531.png" group-title="Sport",Al Kass 3 HD
