@@ -173,7 +173,7 @@ http://freearabic.zinamedia.net/ar/Fujairah-TV/index.m3u8
 http://t1ip-free1.zinamedia.net/ar/Funoon/index.m3u8
 
 #EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic ",ATV
-http://freearabic.zinamedia.net/ar/Atv-Aladalah/index.m3u8
+https://live-ak.vimeocdn.com/exp=1664920434~acl=%2F0f72fb32-e5f0-4ce5-a5cb-eebf19f925d9%2F%2A~hmac=6d34d5870ba899c9eaf426b8a256347a8e40cbd49a4b11752eeda5978da9e97c/0f72fb32-e5f0-4ce5-a5cb-eebf19f925d9/hls.m3u8?min_seconds=30
 
 #EXTINF:-1 tvg-name=" scope tv" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/177/617fe27f22.jpg" group-title="Arabic ",scope tv
 https://nxtn.cdn.mangomolo.com/scopetv/smil:scopetv.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
