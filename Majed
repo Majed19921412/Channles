@@ -853,10 +853,10 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Extra 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJ5XF-ElY3FUOvzNNsFoZax3csFaksOaCNg&usqp=CAU" group-title="Sport",Al Kass Extra 1 
 
-http://u-on.se:2095/xmltv.php?username=S68a265&password=Be34pq16
+http://u-on.se:2095/S68a265/Be34pq16/159882
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass Extra 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FlLY3-TYh6Xmxl5XFvXUNkjFvNpj2LuHjfuFFpJzuO5IJfH0e4EleOSoLlr5X5jxCcA&usqp=CAU" group-title="Sport",Al Kass Extra 2
+http://u-on.se:2095/S68a265/Be34pq16/159881
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
