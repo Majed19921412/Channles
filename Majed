@@ -853,7 +853,7 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Extra 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJ5XF-ElY3FUOvzNNsFoZax3csFaksOaCNg&usqp=CAU" group-title="Sport",Al Kass Extra 1 
 
-http://217.74.16.154:8082/tokenv1/ssn/ar-s/Alkass-EXTRA-1-HD-h265/video.m3u8?md5=AzW-PxvGqdNaP9iyGMnajQ&expires=1668857695
+http://217.74.16.156:8082/tokenv1/ssn/ar-s/Alkass-EXTRA-1-HD-h265/video.m3u8?md5=Xe53j2Zw9z9m-SnnsBU6Xw&expires=1668967053
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass Extra 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FlLY3-TYh6Xmxl5XFvXUNkjFvNpj2LuHjfuFFpJzuO5IJfH0e4EleOSoLlr5X5jxCcA&usqp=CAU" group-title="Sport",Al Kass Extra 2
 http://u-on.se:2095/S68a265/Be34pq16/159881
