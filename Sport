@@ -1,5 +1,5 @@
 
-
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" ,beIN SPORTS 1 
 http://217.74.16.173:8082/tokenv1/ssn/ar-s/beIN-SPORTS-MAX1-H265/video.m3u8?md5=aGYuZ_CUOGvpNoK3S4StOw&expires=1669147228
 
