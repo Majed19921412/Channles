@@ -1,9 +1,9 @@
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" ,beIN SPORTS 1 
-http://217.74.16.173:8082/tokenv1/ssn/ar-s/beIN-SPORTS-MAX1-H265/video.m3u8?md5=aGYuZ_CUOGvpNoK3S4StOw&expires=1669147228
+http://217.74.16.173:8082/tokenv1/ssn/ar-s/beINhttp://217.74.16.173:8082/tokenv1/ssn/ar-s/beIN-SPORTS-MAX1-H265/video.m3u8?md5=tzbi09KWVjCrG_B4tJmxgg&expires=1669208259
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" ,BEIN SPORTS 2 
-http://s0cd.b-cdn.net/ar-s/RTklrSCO-stop/index.m3u8
 
+http://217.74.16.161:8082/tokenv1/ssn/ar-s/beIN-SPORTS-MAX2-H265/video.m3u8?md5=6hSPmk_Ceh1_tR7Wj28z0Q&expires=1669208286
 
