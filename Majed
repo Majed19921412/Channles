@@ -249,12 +249,11 @@ http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
 
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="Arabic",Syria drama 
 
-
-http://freearabic.zinamedia.net/ar/Syria-Drama/index.m3u8
+http://falcon-4k.live:80/6846694622/6776342765/18362
 
 #EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="Arabic",Syria
 
-http://freearabic.zinamedia.net/ar/SYRIA/index.m3u8
+http://falcon-4k.live:80/6846694622/6776342765/18365
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International " tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="Arabic",LBC International 
