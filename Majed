@@ -2,42 +2,41 @@
 #EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
 
 
-http://falcon-4k.live:80/6846694622/6776342765/18452
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344561.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="SBC " tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="Arabic",SBC 
 
-http://falcon-4k.live:80/6846694622/6776342765/18449
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344560.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Thekriyat " tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Arabic",Thekriyat 
 
-http://falcon-4k.live:80/6846694622/6776342765/18458
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344547.m3u8
 
-#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 " tvg-logo="https://www.mbc.net/dam/jcr:e5e1ffbc-89b8-4400-951e-624ded8eb350/invalid-name_12@3x.png" group-title="Arabic",MBC 1 
+#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="Arabic",MBC 1 
 
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
-#EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://www.mbc.net/dam/jcr:74d5c50e-e87a-4103-92ec-52860469aece/mbc-drama.png" group-title="Arabic",MBC Drama 
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" group-title="Arabic",MBC Drama 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477638.m3u8
 
 
-#EXTINF:-1 tvg-name="MBC+ Drama " tvg-logo="https://www.mbc.net/dam/jcr:365a67ad-327e-4e2b-8ae4-ca80400af4f2/mbc-drama-plus.png" group-title="Arabic",MBC+ Drama 
+#EXTINF:-1 tvg-name="MBC+ Drama " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" group-title="Arabic",MBC+ Drama 
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-1 tvg-name="MBC 4 " tvg-logo="https://www.mbc.net/dam/jcr:0ec18b07-adff-4767-8e85-c46f6b188632/mbc4.png" group-title="Arabic",MBC 4 
+#EXTINF:-1 tvg-name="MBC 4 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_4_8d4307615e.svg" group-title="Arabic",MBC 4 
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
-#EXTINF:-1  tvg-name="MBC 5 " tvg-logo="https://www.mbc.net/dam/jcr:fbef6d28-28d2-46b7-a37a-c49ede8eb341/mbc5.png" group-title="Arabic",MBC 5 
+#EXTINF:-1  tvg-name="MBC 5 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_5_cf153622ec.svg" group-title="Arabic",MBC 5 
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
-#EXTINF:-1 tvg-name="MBC ALIRAQ " tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="Arabic",MBC ALIRAQ 
+#EXTINF:-1 tvg-name="MBC ALIRAQ " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" group-title="Arabic",MBC ALIRAQ 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MBC Masr " tvg-logo="https://www.mbc.net/dam/jcr:6e88dbd8-3335-4d8f-93fb-814d06b814f1/mbc-maser.png" group-title="Arabic",MBC Masr 
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
+#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MBC Masr " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="Arabic",MBC Masr 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477636.m3u8
 
-
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 " tvg-logo="https://www.mbc.net/dam/jcr:968c611a-0dd8-4b05-a61f-cfbe14793fc6/mbc-maser2.png" group-title="Arabic",MBC Masr 2 
+#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="Arabic",MBC Masr 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 
