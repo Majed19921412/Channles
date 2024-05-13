@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
+
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3113.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/317545.m3u8
+
+
 #EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
 
 
@@ -349,14 +359,7 @@ https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
 
-
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3113.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
-
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/317545.m3u8
 
 #EXTINF:-1 tvg-id="noordubai.ae" tvg-name="Noor Dubai" tvg-logo="https://www.noordubai.com/etc/designs/noordubai/orginal/static/images/logo-noordubai.png" group-title="Islamic",Noor Dubai
 https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
@@ -371,8 +374,8 @@ https://iqraac.cdn.mgmlcdn.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000
 #EXTINF:-1 tvg-name="Makkah"  tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Islamic",Makkah
 https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Alresala"  tvg-logo="https://rotana.net/triAssets/uploads/2021/04/resala.png" group-title="Islamic",Alresala
-https://7jlive.tooli-tv.com/live/149144_2.m3u8?session=&location=
+#EXTINF:-1 tvg-name="Alresala"  tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="Islamic",Alresala
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161009.m3u8
 
 #EXTINF:-1  tvg-name="Almajd Quraan" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/04/logo-2.png" group-title="Islamic",Almajd Quraan
 http://teratv.co:8880/965478123547/zdas54786hgf/129854
