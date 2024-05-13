@@ -52,8 +52,8 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 
 
 
-#EXTINF:-1 tvg-name="Rotana Khalejia " tvg-logo="https://rotana.net/triAssets/uploads/2020/11/khalijiat.png" group-title="Arabic",Rotana Khalejia 
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+#EXTINF:-1 tvg-name="Rotana Khalejia " tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402508.webp" group-title="Arabic",Rotana Khalejia 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161013.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rotana + " tvg-logo="http://bl3rbe.net/up/ZsIoIr8.png" group-title="Arabic",Rotana + 
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
@@ -868,7 +868,7 @@ http://localchannels.zinamedia.net/ar-s/WhKxECvZSk/index.m3u8
 http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="Sport",beIN SPORTS 1 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544491.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/814182.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="Sport",BEIN SPORTS 2 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544490.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3
