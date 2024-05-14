@@ -574,9 +574,10 @@ http://zinachannels.zinamedia.net/ar-s/Osn-Mezze/index.m3u8
 
 #EXTINF:-1 tvg-id="alekhbariya.sa" tvg-name="Al Ekhbariya " tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="News", Al Ekhbariya 
 https://svs.itworkscdn.net/ekhbariyalive/ikhbariya.smil/ikhbariya_source_chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="<Al Arabiya >" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Arabiya.png" group-title="News",Al Arabiya 
 
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AlArabiya" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Arabiya.png" group-title="News",Al Arabiya 
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2328.m3u8
 
 
 
