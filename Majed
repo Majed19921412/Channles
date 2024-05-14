@@ -480,9 +480,9 @@ http://t1ip-zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8?md5=6bDvYIi0AZSQM
 
 
 
+#EXTINF:-1 tvg-name="Althaqafeyyah" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2Fbedour2%2FLogo_Al_Thaqafeya%2Foriginal%2FLogo_Al_Thaqafeya.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Factual",Althaqafeyyah
 
-
-
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/437226.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Factual",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
@@ -752,7 +752,7 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 
 #EXTINF:-1  tvg-name="Saudi Sport 1 " tvg-logo="https://aloula.faulio.com/storage/mediagallery/af/5f/small_283fe3d945c4efdc8fbced8185065ba6e5460760.png" group-title="Sport",Saudi Sport 1 
 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1660165718/ei/9snzYpanAb-vxN8P0KyWyAs/ip/2001%3A16a2%3Ac18c%3A30e3%3Af80c%3Af122%3A2a21%3A1b95/id/FCsuvcNWPvs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/A/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/hightc/yes/spc/lT-KhusxKc3EY46NQ36ZN7k0x1zw0XBUjaYmbZmL_27Z/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Chightc%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM_bnnO614s8b__d-T72azMlkkCSLiDR3F5XwZRizGCOAiEApSenn-0KdcSV0EHYzw9rVpF8UVcfuMNIcYq40QKmC8I%3D/file/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/346050.m3u8
 
 
 #EXTINF:-1 tvg-id="saudisport1.sa" tvg-name="Saudi Sport 2 " tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Sport",Saudi Sport 2 
