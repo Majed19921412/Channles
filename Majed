@@ -718,32 +718,42 @@ https://7jlive.tooli-tv.com/live/149492_2.m3u8?session=&location=
 
 https://7jlive.tooli-tv.com/live/290062_2.m3u8?session=&location=
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="Sport",SSC 1 
-http://localchannels.zinamedia.net/ar-s/SSC1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC NEWS " tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2022%2FKharabsheh2%2FAugust%2FGeneral%2FNEWS-(1)%2Foriginal%2FNEWS-(1).png%3Fheight%3Dauto%26width%3D144%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Sport",SSC NEWS
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/363049.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 " tvg-logo="https://www.gobx.com/ar/assets/images/SportsPackageSection/SSC__Channel_Bugs_1HD_AW-01-01.png" group-title="Sport",SSC 1 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301069.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SSC 2 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png" group-title="Sport",SSC 2 
 
-http://localchannels.zinamedia.net/ar-s/SSC2/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301067.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png" group-title="Sport",SSC 3 
 
 
-http://localchannels.zinamedia.net/ar-s/SSC3/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301065.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 4 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png" group-title="Sport",SSC 4 
 
-http://localchannels.zinamedia.net/ar-s/SSC4/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301063.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SSC 5 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png" group-title="Sport",SSC 5 
 
-http://localchannels.zinamedia.net/ar-s/SSC5/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301061.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC 6 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="Sport",SSC 6 
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png" group-title="Sport",SSC EXTRA 1 
 
-http://localchannels.zinamedia.net/ar-s/SSC6/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301059.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SSC 7 " tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="Sport",SSC 7 
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="Sport",SSC EXTRA 2 
 
-http://localchannels.zinamedia.net/ar-s/SSC7/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/301057.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png" group-title="Sport",SSC EXTRA 3 
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/394575.m3u8
+
 
 
 #EXTINF:-1  tvg-name="Fight Sport" tvg-logo="https://gobx.com/wp-content/uploads/2021/05/FIGHT-NETWORK.png" group-title="Sport",Fight Sport
@@ -755,16 +765,16 @@ https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad43
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/346050.m3u8
 
 
-#EXTINF:-1 tvg-id="saudisport1.sa" tvg-name="Saudi Sport 2 " tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Sport",Saudi Sport 2 
+#EXTINF:-1 tvg-name="Saudi Sport 2 " tvg-logo="https://aloula.faulio.com/storage/mediagallery/7b/e0/small_a1bad3d72059d5a1cd18151ca0692c74c0a42926.png" group-title="Sport",Saudi Sport 2 
 
-http://localchannels.zinamedia.net/ar/KSA-Sport-2-HD/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/346052.m3u8
 
 
 
 
 
 #EXTINF:-1  tvg-name=" AD Sports 1 " tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6a88b.png" group-title="Sport", AD Sports 1 
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3123.m3u8
 
 #EXTINF:-1  tvg-name="AD Sports 2 " tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6b210.png" group-title="Sport", AD Sports 2 
 https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -840,7 +850,7 @@ https://7jlive.tooli-tv.com/live/149465_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 1 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png" group-title="Sport",Al Kass 1 HD
 
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1b/master.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3120.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png" group-title="Sport",Al Kass 2 HD
 
