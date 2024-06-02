@@ -252,19 +252,19 @@ https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 
 #EXTINF:-1 tvg-name="Syria TV " tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" group-title="Arabic",Syria TV 
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4449.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Lana" tvg-logo="https://www.akhbarkalaan.com/wp-content/uploads/2021/05/lana-tv.jpg" group-title="Arabic",Lana
 
-http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/140804.m3u8
 
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="Arabic",Syria drama 
 
-http://falcon-4k.live:80/6846694622/6776342765/18362
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2276.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="Arabic",Syria
 
-http://falcon-4k.live:80/6846694622/6776342765/18365
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2318.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International " tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="Arabic",LBC International 
@@ -474,7 +474,7 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Toyor Aljanah" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="Kids",Toyor Aljanah
-http://t1ip-freearabic.zinamedia.net/ar/Toyor-Aljanha/index.m3u8?md5=k7TqeYs0jbZL265LGHKeHg&expires=1650763193
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4343.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="karamesh" tvg-logo="https://9orao5br.com/wp-content/uploads/2021/09/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%83%D8%B1%D8%A7%D9%85%D9%8A%D8%B4-2021.jpg" group-title="Kids",karamesh
 http://freearabic.zinamedia.net/ar/Karameesh/tracks-v1a1/mono.m3u8
@@ -879,7 +879,7 @@ http://u-on.se:2095/S68a265/Be34pq16/159881
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
-http://localchannels.zinamedia.net/ar-s/WhKxECvZSk/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544435.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT
 http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
@@ -1023,11 +1023,11 @@ https://7jlive.tooli-tv.com/live/148084_2.m3u8?session=&location=
 
 #EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 " tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="Movies",MBC 2 
 
-http://zinachannels.zinamedia.net/ar-s/mbc-2/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477642.m3u8
 
 #EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC MAX " tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="Movies",MBC MAX 
 
-http://zinachannels.zinamedia.net/ar-s/mbc-Max/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477615.m3u8
 
 #EXTINF:-1 tvg-name="Zee Aflam" tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title=" Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
