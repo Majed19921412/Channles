@@ -59,7 +59,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161013.m3u8
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama " tvg-logo="https://rotana.net/triAssets/uploads/2020/11/drama.png" group-title="Arabic",Rotana Drama 
+#EXTINF:-1 tvg-id="" tvg-name="Rotana Drama " tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402515.webp" group-title="Arabic",Rotana Drama 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161014.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="Arabic",LBC
@@ -67,13 +67,15 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161014.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3304.m3u8
 
 
-#EXTINF:-1 tvg-name="OSN Ya Hala Al Oula" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="Arabic",OSN Ya Hala Al Oula
+#EXTINF:-1 tvg-name="OSN Ya Hala  " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="Arabic",OSN Ya Hala  
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488570.m3u8
+
+
+#EXTINF:-1 tvg-name="OSN Ya Hala blarabi" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="Arabic",OSN Ya Hala Al Oula
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488569.m3u8
 
-#EXTINF:-1 tvg-name="OSN Ya Hala  " tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="Arabic",OSN Ya Hala  
-
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488570.m3u8
 
 #EXTINF:-1 tvg-name="ART Hekayat " tvg-logo="https://content.osn.com/logo/channel/cropped/HK1.png" group-title="Arabic ",ART Hekayat 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/740263.m3u8
@@ -267,7 +269,7 @@ http://falcon-4k.live:80/6846694622/6776342765/18365
 
 #EXTINF:-1 tvg-id="" tvg-name="LBC International " tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="Arabic",LBC International 
 
-http://zinachannels.zinamedia.net/ar-s/lbc-internatonal/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161006.m3u8
 
 #EXTINF:-1  tvg-name="MTV " tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Arabic ", MTV 
 
@@ -389,22 +391,55 @@ http://teratv.co:8880/965478123547/zdas54786hgf/129857
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://gobx.com/wp-content/uploads/2019/03/MBC3.png" group-title="Kids",MBC 3 
+#EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" group-title="Kids",MBC 3 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
 
-#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
-https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
 
 
 #EXTINF:-1 tvg-name="SpaceToon" tvg-logo="http://bl3rbe.net/up/gywYIMe1.png" group-title="Kids",SpaceToon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
 
+#EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="Kids",Majid 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3114.m3u8
+
 #EXTINF:-1  tvg-name="Cartoon Network Arabia" tvg-logo="http://bit.ly/2u9wEEH" group-title="Kids",Cartoon Network Arabia
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488545.m3u8
 
+#EXTINF:-1 tvg-name="Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488538.m3u8
 
-#EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="Kids",Majid 
-https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="Kids",Nickelodeon 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488539.m3u8
+
+#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="Kids",Nick Toon 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488542.m3u8
+
+#EXTINF:-1 tvg-name="Nick Jr " tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" group-title="Kids",Nick Jr 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488543.m3u8
+
+
+#EXTINF:-1 tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/357222.m3u8
+
+#EXTINF:-1 tvg-name="Disney Jr" tvg-logo="https://content.osn.com/logo/channel/cropped/DJR.png" group-title="Kids",Disney Jr
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/357223.m3u8
+
+#EXTINF:-1 tvg-name="Baby" tvg-logo="https://infrad.org/wp-content/uploads/2019/11/81KCYvActQL-21.png" group-title="Kids",Baby
+http://t1ip-zinachannels.zinamedia.net/ar-s/BN-Baby/index.m3u8?md5=rwsbYWdL9GaJ-Jb6pQDvPw&expires=1650763193
+
+#EXTINF:-1 tvg-name="OSN KidZone" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="Kids",OSN KidZone
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488541.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN  Kids " tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="Kids",OSN  Kids 
+http://t1ip-zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8?md5=gYkBmKdXTk4mZzg5PPJeUQ&expires=1650763193
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem
+http://t1ip-zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8?md5=Ai4pXeVWc_4rs4g5NkVj1A&expires=1650763193
+
+#EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="Kids",Jeem HD
+http://t1ip-zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8?md5=6bDvYIi0AZSQMlsLiy2N8g&expires=1650763193
 
 
 #EXTINF:-1 tvg-name="gulli " tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Image-1.png" group-title="Kids",gulli 
@@ -427,6 +462,9 @@ https://7jlive.tooli-tv.com/live/149438_2.m3u8?session=&location=
 #EXTINF:-1  tvg-name="Zoo Moo" tvg-logo="https://gobx.com/wp-content/uploads/2021/05/ZOOMOO.png" group-title="Kids",Zoo Moo
 http://zinachannels.zinamedia.net/ar-s/ZOOMOOTV/index.m3u8
 
+#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_2.m3u8
+
 
 #EXTINF:-1  tvg-name="TIJI in French" tvg-logo="https://shahidstatic4.akamaized.net//mediaObject/2021/Abd/Jan/m6-images/TIJI_THUMB/original/TIJI_THUMB.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" group-title="Kids",TIJI in French
 
@@ -442,41 +480,9 @@ http://t1ip-freearabic.zinamedia.net/ar/Toyor-Aljanha/index.m3u8?md5=k7TqeYs0jbZ
 http://freearabic.zinamedia.net/ar/Karameesh/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-name="Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488538.m3u8
 
 
-#EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="Kids",Nickelodeon 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488539.m3u8
 
-#EXTINF:-1 tvg-name="Nick Toon " tvg-logo="https://content.osn.com/logo/channel/cropped/NKT.png" group-title="Kids",Nick Toon 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488542.m3u8
-
-#EXTINF:-1 tvg-name="Nick Jr " tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" group-title="Kids",Nick Jr 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488543.m3u8
-
-
-#EXTINF:-1 tvg-name="Disney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Kids",Disney
-http://t1ip-zinachannels.zinamedia.net/ar-s/Disney-Channels/index.m3u8?md5=8b6--Y4-2QSLRdz3zhFBow&expires=1650763193
-
-#EXTINF:-1 tvg-name="Disney Jr" tvg-logo="https://content.osn.com/logo/channel/cropped/DJR.png" group-title="Kids",Disney Jr
-http://t1ip-zinachannels.zinamedia.net/ar-s/DISNEY-JUNIOR/index.m3u8?md5=kJ8sydxIaoGiPFOrQG0NFg&expires=1650763193
-
-#EXTINF:-1 tvg-name="Baby" tvg-logo="https://infrad.org/wp-content/uploads/2019/11/81KCYvActQL-21.png" group-title="Kids",Baby
-http://t1ip-zinachannels.zinamedia.net/ar-s/BN-Baby/index.m3u8?md5=rwsbYWdL9GaJ-Jb6pQDvPw&expires=1650763193
-
-#EXTINF:-1 tvg-name="OSN KidZone" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="Kids",OSN KidZone
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488541.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="OSN  Kids " tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="Kids",OSN  Kids 
-http://t1ip-zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8?md5=gYkBmKdXTk4mZzg5PPJeUQ&expires=1650763193
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem
-http://t1ip-zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8?md5=Ai4pXeVWc_4rs4g5NkVj1A&expires=1650763193
-
-#EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="Kids",Jeem HD
-http://t1ip-zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8?md5=6bDvYIi0AZSQMlsLiy2N8g&expires=1650763193
 
 
 
