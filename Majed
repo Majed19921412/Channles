@@ -1,26 +1,18 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-name="Saudi Quran " tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png" group-title="Islamic",Saudi Quran 
-
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3113.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al-Sunna Al-Nabaweyah" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/small_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Islamic",Al-Sunna Al-Nabaweyah
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/317545.m3u8
 
-
 #EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
-
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344561.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="SBC " tvg-logo="https://aloula.faulio.com/storage/mediagallery/79/c6/small_946269c528b9c02926a56044d8220afd574b31f7.png" group-title="Arabic",SBC 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344560.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Thekriyat " tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Arabic",Thekriyat 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344547.m3u8
 
 #EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="Arabic",MBC 1 
@@ -89,13 +81,41 @@ http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467326.m3u8
 
-#EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="Entertainment",MBC Variety 
 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477632.m3u8
 
 #EXTINF:-1 tvg-name="MBC Action " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" group-title="Entertainment",MBC Action 
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477637.m3u8
+
+
+#EXTINF:-1 tvg-id="alemarat.ae" tvg-name="AL Emarat TV " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74b137.png" group-title="Arabic",AL Emarat TV 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3086.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi TV " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="Arabic",Abu Dhabi TV 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3083.m3u8
+
+
+
+
+#EXTINF:-1 tvg-name="Dhafra " tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="Arabic",Dhafra 
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3089.m3u8
+
+#EXTINF:-1  tvg-name="DUBAI TV" tvg-logo="https://www.dubaitv.ae/etc/designs/dubaitv/clientlib-site/static-200219/images/logo-wide.png" group-title="Arabic",DUBAI TV
+
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3082.m3u8
+
+#EXTINF:-1 tvg-id="samadubai.ae" tvg-name="SAMA DUBAI " tvg-logo="https://www.samadubai.ae/etc/designs/samadubai/clientlib-site/static-200219-1/images/logo-wide.png" group-title="Arabic",SAMA DUBAI 
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="dubaizaman.ae" tvg-name="Dubai Zaman" tvg-logo="https://www.dubaizaman.ae/etc/designs/dubaizaman/clientlib-site/static-020519/images/logo-wide.png" group-title="Arabic",Dubai Zaman
+https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+
+
+#EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="Entertainment",MBC Variety 
+
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477632.m3u8
 
 #EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" group-title="Entertainment",MBC Bollywood 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477631.m3u8
@@ -130,30 +150,9 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467318.m3u8
 #EXTINF:-1  tvg-name="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/logo-310321/400x170.png" group-title="Entertainment",DUBAI ONE
 https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 tvg-id="alemarat.ae" tvg-name="AL Emarat TV " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74b137.png" group-title="Arabic",AL Emarat TV 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3086.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi TV " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="Arabic",Abu Dhabi TV 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3083.m3u8
 
 
 
-
-#EXTINF:-1 tvg-name="Dhafra " tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="Arabic",Dhafra 
-
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3089.m3u8
-
-
-#EXTINF:-1  tvg-name="DUBAI TV" tvg-logo="https://www.dubaitv.ae/etc/designs/dubaitv/clientlib-site/static-200219/images/logo-wide.png" group-title="Arabic",DUBAI TV
-
-
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3082.m3u8
-
-#EXTINF:-1 tvg-id="samadubai.ae" tvg-name="SAMA DUBAI " tvg-logo="https://www.samadubai.ae/etc/designs/samadubai/clientlib-site/static-200219-1/images/logo-wide.png" group-title="Arabic",SAMA DUBAI 
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-id="dubaizaman.ae" tvg-name="Dubai Zaman" tvg-logo="https://www.dubaizaman.ae/etc/designs/dubaizaman/clientlib-site/static-020519/images/logo-wide.png" group-title="Arabic",Dubai Zaman
-https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
 
 
 
