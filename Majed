@@ -1021,12 +1021,10 @@ https://7jlive.tooli-tv.com/live/148084_2.m3u8?session=&location=
 
 
 
-#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 " tvg-logo="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" group-title="Movies",MBC 2 
-
+#EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="Movies",MBC 2 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477642.m3u8
 
-#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC MAX " tvg-logo="https://www.mbc.net/dam/jcr:72a76fe0-63d5-4eac-aced-77c641e3eb67/mbc-max.png" group-title="Movies",MBC MAX 
-
+#EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC MAX " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" group-title="Movies",MBC MAX 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477615.m3u8
 
 #EXTINF:-1 tvg-name="Zee Aflam" tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title=" Movies",Zee Aflam
