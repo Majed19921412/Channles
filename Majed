@@ -56,13 +56,13 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161013.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rotana + " tvg-logo="http://bl3rbe.net/up/ZsIoIr8.png" group-title="Arabic",Rotana + 
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477577.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rotana Drama " tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402515.webp" group-title="Arabic",Rotana Drama 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161014.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/lbc.png" group-title="Arabic",LBC
+#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp" group-title="Arabic",LBC
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3304.m3u8
 
@@ -78,18 +78,18 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488569.m3u8
 
 
 #EXTINF:-1 tvg-name="ART Hekayat " tvg-logo="https://content.osn.com/logo/channel/cropped/HK1.png" group-title="Arabic ",ART Hekayat 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/740263.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488557.m3u8
 
 #EXTINF:-1 tvg-name="ART Hekayat 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HK2.png" group-title="Arabic ",ART Hekayat 2
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/740264.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488556.m3u8
 
 #EXTINF:-1 tvg-name="Fox rewayat" tvg-logo="https://www.ngmisr.com/wp-content/uploads/2018/08/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D9%81%D9%88%D9%83%D8%B3-%D8%B1%D9%88%D8%A7%D9%8A%D8%A7%D8%AA-Fox-Rewayat.png" group-title="Arabic",Fox rewayat
 http://zinachannels.zinamedia.net/ar-s/Fox-Rewayat/index.m3u8
 
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/708964.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467326.m3u8
 
-#EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://gobx.com/wp-content/uploads/2019/05/MBC-Variety.png" group-title="Entertainment",MBC Variety 
+#EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="Entertainment",MBC Variety 
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477632.m3u8
 
@@ -97,19 +97,20 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477632.m3u8
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477637.m3u8
 
-#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood " tvg-logo="https://www.mbc.net/dam/jcr:be832134-6b59-4e3c-87bd-c2550667342d/mbc-bollywood.png" group-title="Entertainment",MBC Bollywood 
+#EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" group-title="Entertainment",MBC Bollywood 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477631.m3u8
 
 #EXTINF:-1  tvg-name="Zee Alwan" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/1/1c/Zee%D9%90Alwan_logo.png" group-title="Entertainment",Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 
-#EXTINF:-1 tvg-name="OSN Series First " tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="Entertainment",OSN Series First 
-http://zinachannels.zinamedia.net/ar-s/OSN-SERIES-FIRST/index.m3u8
-#EXTINF:-1 tvg-name="OSN Series  " tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="Entertainment",OSN Series  
-http://zinachannels.zinamedia.net/ar-s/OSN-SERIES/index.m3u8
+#EXTINF:-1 tvg-name="OSN Showcase" tvg-logo="https://content.osn.com/logo/channel/cropped/OFH.png" group-title="Entertainment",OSN Series First 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488546.m3u8
+
+#EXTINF:-1 tvg-name="OSN Crime  " tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png" group-title="Entertainment",OSN Series  
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488547.m3u8
 
 #EXTINF:-1  tvg-name="OSN Comedy " tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png" group-title="Entertainment",OSN Comedy 
-http://zinachannels.zinamedia.net/ar-s/osn-series-comedy/index.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488552.m3u8
 
 #EXTINF:-1 tvg-name="Star World " tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="Entertainment",Star World 
 http://zinachannels.zinamedia.net/ar-s/Star-World/index.m3u8
