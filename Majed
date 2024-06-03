@@ -1022,10 +1022,10 @@ https://7jlive.tooli-tv.com/live/148084_2.m3u8?session=&location=
 
 
 #EXTINF:-1 tvg-id="mbc2.ae" tvg-name="MBC 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="Movies",MBC 2 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477642.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/822520.m3u8
 
 #EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC MAX " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" group-title="Movies",MBC MAX 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477615.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/136066.m3u8
 
 #EXTINF:-1 tvg-name="Zee Aflam" tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title=" Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -1049,24 +1049,24 @@ http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5407
 http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37778
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies First" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="Movies",OSN Movies First
-http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37788
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Premiere" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="Movies",OSN Movies Premiere
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488554.m3u8
 
 
-#EXTINF:-1 tvg-name="OSN Enigma " tvg-logo="https://content.osn.com/logo/channel/cropped/OCM.png" group-title="Movies   ",OSN Enigma 
-http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37792
+#EXTINF:-1 tvg-name="OSN Movies Horror " tvg-logo="https://content.osn.com/logo/channel/cropped/OCM.png" group-title="Movies   ",OSN Movies Horror 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/801044.m3u8
 
-#EXTINF:-1 tvg-name="OSN Action " tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="Movies   ",OSN Action 
-http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37792
-
-
+#EXTINF:-1 tvg-name="OSN Movies Action " tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="Movies   ",OSN Movies Action 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488555.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN Family" tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="Movies",OSN Family
-http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/130057
 
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movies " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="Movies",OSN Movies 
-http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37790
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Family" tvg-logo="https://content.osn.com/logo/channel/cropped/OFM.png" group-title="Movies",OSN Movies Family
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488551.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movies Hollywood " tvg-logo="https://content.osn.com/logo/channel/cropped/OPR.png" group-title="Movies",OSN Movies Hollywood 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488553.m3u8
 
 
 #EXTINF:-1 tvg-name=" Bein Movies Premiere 1 " " tvg-logo="https://cne-eg.com/uploads/logos/2021141542830.png"   group-title="Movies", Bein Movies Premiere 1 
