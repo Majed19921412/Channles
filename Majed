@@ -134,8 +134,14 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488552.m3u8
 #EXTINF:-1 tvg-name="Star World " tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="Entertainment",Star World 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/722041.m3u8
 
-#EXTINF:-1 tvg-name="Fox Crime" tvg-logo="https://cne-eg.com/uploads/logos/20199112934885.png"  group-title="Entertainment",Fox Crime
-http://free1.zinamedia.net/ar-s/Fox-crime-Hd/index.m3u8
+#EXTINF:-1 tvg-name="Star Action" tvg-logo="https://cne-eg.com/uploads/logos/2024111614266.png"  group-title="Entertainment",Star Action
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467313.m3u8
+
+#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://cne-eg.com/uploads/logos/20242122485192.png"    group-title="Movies",Star Movies
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/722042.m3u8
+
+#EXTINF:-1 tvg-name="Star Life" tvg-logo="https://cne-eg.com/uploads/logos/2024111853124.png"    group-title="Movies",Star Life
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467315.m3u8
 
 #EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="Entertainment",beIN Series 1 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467328.m3u8
@@ -1030,21 +1036,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-name="B4U Aflam" tvg-logo="https://static.wixstatic.com/media/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.png/v1/fill/w_268,h_225,al_c,q_85,usm_0.66_1.00_0.01/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.webp" group-title="Movies",B4U Aflam
 https://tr149.tooliserver.com/live/149208_.m3u8
 
-#EXTINF:-1 tvg-name="Fox Movies" tvg-logo="https://cne-eg.com/uploads/logos/20199113542909.png"    group-title="Movies",Fox Movies
-http://aromatv.co:80/majedalhazmi/a9wx48hgWjh/4270
-
-
-#EXTINF:-1 tvg-name="FOX Action Movies" tvg-logo="https://cne-eg.com/uploads/logos/20199113555944.png"    group-title="Movies",FOX Action Movies
-http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5406
-
-
-
-#EXTINF:-1 tvg-name="FOX Family Movies " tvg-logo="https://cne-eg.com/uploads/logos/201991136810.png" group-title="Movies ",FOX Family Movies 
-http://sabtooh.club:8000/792787557368/60cef92c92609.34415/5407
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://content.osn.com/logo/channel/cropped/STM.png" group-title="Movies   ",Star Movies
-http://live.top.ip-tv.business:22461/majedalhazmi1412@gmail.com/bkr7guht/37778
 
 
 #EXTINF:-1 tvg-id="" tvg-name="OSN Movies Premiere" tvg-logo="https://content.osn.com/logo/channel/cropped/OM1.png" group-title="Movies",OSN Movies Premiere
