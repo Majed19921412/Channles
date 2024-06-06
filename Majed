@@ -316,47 +316,33 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488567.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALFA Musalsalat +2 " tvg-logo="https://content.osn.com/logo/channel/cropped/SE4.png" group-title="Arabic",ALFA Musalsalat +2 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488566.m3u8
 
-
-
 #EXTINF:-1 tvg-name="Citruss tv" tvg-logo="https://statics.citrusstv.com/media/logo/stores/7/citruss_logo_ar-v1.0.png" group-title="Arabic",Citruss tv
-https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-
-
-
-
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3271.m3u8
 
 #EXTINF:-1 tvg-id="noordubai.ae" tvg-name="Noor Dubai" tvg-logo="https://www.noordubai.com/etc/designs/noordubai/orginal/static/images/logo-noordubai.png" group-title="Islamic",Noor Dubai
-https://dmiffthvll.cdn.mgmlcdn.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/645502.m3u8
+
 #EXTINF:-1 tvg-name="KTV Ethraa" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_ethraa_new.png" group-title="Islamic",KTV Ethraa 
-
-http://zinachannels.zinamedia.net/ar/Kuwait-AlThraa-HD/index.m3u8
-
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4352.m3u8
 
 #EXTINF:-1 tvg-name="Iqraa"  tvg-logo="https://iqraa.com/assets/images/Logo/Iqraa-Logo.png" group-title="Islamic",Iqraa 
-https://iqraac.cdn.mgmlcdn.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
-
-#EXTINF:-1 tvg-name="Makkah"  tvg-logo="https://makkahtv.tv/assets/images/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Islamic",Makkah
-https://5ab29cc78f681.streamlock.net/makkahtv/livestream/playlist.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4444.m3u8
 
 #EXTINF:-1 tvg-name="Alresala"  tvg-logo="https://www.alresalah.net/wp-content/themes/bridge-child/images/logo.png" group-title="Islamic",Alresala
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161009.m3u8
 
 #EXTINF:-1  tvg-name="Almajd Quraan" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/04/logo-2.png" group-title="Islamic",Almajd Quraan
-http://teratv.co:8880/965478123547/zdas54786hgf/129854
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3259.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Almajd Alhadeth" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/04/logo-3.png" group-title="Islamic",Almajd Alhadeth
 http://teratv.co:8880/965478123547/zdas54786hgf/129855
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Almajd  Scientific" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/04/logo-13.png" group-title="Islamic",Almajd  Scientific
-http://teratv.co:8880/965478123547/zdas54786hgf/129857
-
-
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/7140.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" group-title="Kids",MBC 3 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-
-
 
 #EXTINF:-1 tvg-name="SpaceToon" tvg-logo="http://bl3rbe.net/up/gywYIMe1.png" group-title="Kids",SpaceToon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
