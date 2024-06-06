@@ -821,23 +821,19 @@ https://7jlive.tooli-tv.com/live/149465_2.m3u8?session=&location=
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3120.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 2 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142948397.png" group-title="Sport",Al Kass 2 HD
-
-
-https://liveb.alkassdigital.net/hls/live/2094545/Alkass2wat/master.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3121.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 3 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183143127531.png" group-title="Sport",Al Kass 3 HD
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/314634.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 4 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183142520385.png" group-title="Sport",Al Kass 4 HD
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/playlist.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3122.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass 5 HD" tvg-logo="https://cne-eg.com/uploads/logos/2018314320255.png" group-title="Sport",Al Kass 5 HD
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/120449.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Extra 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTJ5XF-ElY3FUOvzNNsFoZax3csFaksOaCNg&usqp=CAU" group-title="Sport",Al Kass Extra 1 
-
-http://217.74.16.156:8082/tokenv1/ssn/ar-s/Alkass-EXTRA-1-HD-h265/video.m3u8?md5=Xe53j2Zw9z9m-SnnsBU6Xw&expires=1668967053
-
-#EXTINF:-1 tvg-id="" tvg-name="Al Kass Extra 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FlLY3-TYh6Xmxl5XFvXUNkjFvNpj2LuHjfuFFpJzuO5IJfH0e4EleOSoLlr5X5jxCcA&usqp=CAU" group-title="Sport",Al Kass Extra 2
-http://u-on.se:2095/S68a265/Be34pq16/159881
+#EXTINF:-1 tvg-id="" tvg-name="Al Kass 6 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183143220219.png" group-title="Sport",Al Kass 6 HD
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/314636.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
