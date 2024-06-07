@@ -41,8 +41,11 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477636.m3u8
 #EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="Arabic",MBC Masr 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
+#EXTINF:-1 tvg-name="Bedaya" tvg-logo="https://img1.wsimg.com/isteam/ip/e66a088c-0315-4bb1-a646-201f6bc48a6d/facebook-socialsizes_Cover%20Photo.png/:/rs=w:526,h:200,cg:true,m/cr=w:526,h:200/qt=q:95" group-title="Arabic",Bedaya
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/405207.m3u8
 
-
+#EXTINF:-1 tvg-name="Almajd Ajaweed" tvg-logo="https://almajdtv.com/wp-content/uploads/2024/05/Ajawed.png" group-title="Arabic",Almajd Ajaweed
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/678354.m3u8
 
 #EXTINF:-1 tvg-name="Rotana Khalejia " tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402508.webp" group-title="Arabic",Rotana Khalejia 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161013.m3u8
@@ -347,15 +350,17 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-name="SpaceToon" tvg-logo="http://bl3rbe.net/up/gywYIMe1.png" group-title="Kids",SpaceToon
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index_1.m3u8
 
-#EXTINF:-1 tvg-name="Majid " tvg-logo="https://majid.ae/images/logo.png" group-title="Kids",Majid 
+#EXTINF:-1 tvg-name="Majid " tvg-logo="https://cdn-m.admedia.ae/store/archive/image/2023/9/19/2aacfb7a-8e05-4ff6-a8b6-292fb2ea77ca.png" group-title="Kids",Majid 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3114.m3u8
 
 #EXTINF:-1  tvg-name="Cartoon Network Arabia" tvg-logo="http://bit.ly/2u9wEEH" group-title="Kids",Cartoon Network Arabia
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488545.m3u8
 
-#EXTINF:-1 tvg-name="Boomerang " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/280px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang 
+#EXTINF:-1 tvg-name="Moonbug" tvg-logo="https://cne-eg.com/uploads/logos/2023102419693.png" group-title="Kids",Moonbug 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488538.m3u8
 
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://cne-eg.com/uploads/logos/20231635837770.png" group-title="Kids",Cartoonito 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488525.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="Kids",Nickelodeon 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488539.m3u8
@@ -374,7 +379,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/357222.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/357223.m3u8
 
 #EXTINF:-1 tvg-name="Baby" tvg-logo="https://infrad.org/wp-content/uploads/2019/11/81KCYvActQL-21.png" group-title="Kids",Baby
-http://t1ip-zinachannels.zinamedia.net/ar-s/BN-Baby/index.m3u8?md5=rwsbYWdL9GaJ-Jb6pQDvPw&expires=1650763193
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467321.m3u8
 
 #EXTINF:-1 tvg-name="OSN KidZone" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="Kids",OSN KidZone
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488541.m3u8
@@ -384,10 +389,10 @@ http://t1ip-zinachannels.zinamedia.net/ar-s/Movies-HD-Kids/index.m3u8?md5=gYkBmK
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem
-http://t1ip-zinachannels.zinamedia.net/ar-s/Baraem-HD/index.m3u8?md5=Ai4pXeVWc_4rs4g5NkVj1A&expires=1650763193
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467319.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="Kids",Jeem HD
-http://t1ip-zinachannels.zinamedia.net/ar-s/Jeem-HD/index.m3u8?md5=6bDvYIi0AZSQMlsLiy2N8g&expires=1650763193
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467317.m3u8
 
 
 #EXTINF:-1 tvg-name="gulli " tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Image-1.png" group-title="Kids",gulli 
