@@ -833,54 +833,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/120449.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/314636.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544435.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT
-http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="Sport",beIN SPORTS 1 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/814182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="Sport",BEIN SPORTS 2 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="Sport",beINSPORTS 4 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544488.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="Sport",beINSPORTS 5 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544487.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="Sport",beINSPORTS 6 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544486.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="Sport",beINSPORTS 7 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544485.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 8 " tvg-logo="https://cne-eg.com/uploads/logos/2023443525430.png" group-title="Sport",beINSPORTS 8
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544484.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 9 " tvg-logo="https://cne-eg.com/uploads/logos/2023444114572.png" group-title="Sport",beINSPORTS 9
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544483.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS NBA " tvg-logo="https://cne-eg.com/uploads/logos/20211415532342.png" group-title="Sport",beINSPORTS NBA 
-http://teratv.co:8880/965478123547/zdas54786hgf/157651
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="Sport",beIN SPORT AFC
-
-http://217.74.16.156:8082/tokenv1/local/ar-s/bein-afc-HD/video.m3u8?md5=pBoGMDAAL49toJXq9m6C3Q&expires=1666132025
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/20222251027902.png" group-title="Sport",beIN SPORT AFC 1
-
-http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/20222251056793.png" group-title="Sport",beIN SPORT AFC 2
-
-http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/20222251145481.png" group-title="Sport",beIN SPORT AFC 3
-http://51.195.234.238:8080/ar-s/bein-afc-3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 1 " tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 1 
 http://teratv.co:8880/965478123547/zdas54786hgf/35010
 #EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 2  
@@ -1089,4 +1042,51 @@ https://svs.itworkscdn.net/smcwatarlive/smcwatar/chunks.m3u8
 #EXTINF:-1  tvg-name="95 pulse" tvg-logo="https://sba.net.ae/public/uploads/21/May/23/4599817b88c67fe46d557137394141444b78566a6846657631664c6c3954.png" group-title="Radio",95 pulse
 https://svs.itworkscdn.net/pulse95live/pulse96/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT NEWS" tvg-logo="https://cne-eg.com/uploads/logos/2021114628522.png" group-title="Sport",beIN SPORT NEWS
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544435.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT" tvg-logo="https://cne-eg.com/uploads/logos/2021114651788.png" group-title="Sport",beIN SPORT
+http://localchannels.zinamedia.net/ar-s/pEmPdyrGGz/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021122455375.png" group-title="Sport",beIN SPORTS 1 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/814182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021122430516.png" group-title="Sport",BEIN SPORTS 2 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 3 " tvg-logo="https://cne-eg.com/uploads/logos/2021122413188.png" group-title="Sport",beINSPORTS 3
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021122354391.png" group-title="Sport",beINSPORTS 4 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544488.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 5 " tvg-logo="https://cne-eg.com/uploads/logos/2021122336578.png" group-title="Sport",beINSPORTS 5 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544487.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 6 " tvg-logo="https://cne-eg.com/uploads/logos/2021122318750.png" group-title="Sport",beINSPORTS 6 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 7 " tvg-logo="https://cne-eg.com/uploads/logos/2021122223140.png" group-title="Sport",beINSPORTS 7 
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544485.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 8 " tvg-logo="https://cne-eg.com/uploads/logos/2023443525430.png" group-title="Sport",beINSPORTS 8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544484.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 9 " tvg-logo="https://cne-eg.com/uploads/logos/2023444114572.png" group-title="Sport",beINSPORTS 9
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/544483.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS NBA " tvg-logo="https://cne-eg.com/uploads/logos/20211415532342.png" group-title="Sport",beINSPORTS NBA 
+http://teratv.co:8880/965478123547/zdas54786hgf/157651
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC" tvg-logo="https://cne-eg.com/uploads/logos/202222596856.png" group-title="Sport",beIN SPORT AFC
+
+http://217.74.16.156:8082/tokenv1/local/ar-s/bein-afc-HD/video.m3u8?md5=pBoGMDAAL49toJXq9m6C3Q&expires=1666132025
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 1" tvg-logo="https://cne-eg.com/uploads/logos/20222251027902.png" group-title="Sport",beIN SPORT AFC 1
+
+http://141.95.206.174:8080/ar-s/bein-afc-1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 2" tvg-logo="https://cne-eg.com/uploads/logos/20222251056793.png" group-title="Sport",beIN SPORT AFC 2
+
+http://141.95.206.174:8080/ar-s/bein-afc-2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORT AFC 3" tvg-logo="https://cne-eg.com/uploads/logos/20222251145481.png" group-title="Sport",beIN SPORT AFC 3
+http://51.195.234.238:8080/ar-s/bein-afc-3/index.m3u8
