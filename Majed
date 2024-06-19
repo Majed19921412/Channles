@@ -313,7 +313,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4415.m3u8
 #EXTINF:-1 tvg-name="Qatar TV 2" tvg-logo="https://www.raya.com/wp-content/uploads/2020/07/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%B7%D8%B1-2.jpg" group-title="Arabic",Qatar TV 2
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/184832.m3u8
 
-#EXTINF:-1  tvg-name="Alryan" tvg-logo="https://www.alrayyan.tv//wp-content/uploads/2016/04/TVLogo.png"  group-title="Arabic",Alryan
+#EXTINF:-1  tvg-name="Alryan" tvg-logo="https://www.alrayyan.tv//wp-content/uploads/2016/04/TVLogo.png" group-title="Arabic",Alryan
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2321.m3u8
 
 
@@ -977,10 +977,10 @@ https://7jlive.tooli-tv.com/live/149006_2.m3u8?session=&location=
 https://7jlive.tooli-tv.com/live/149002_2.m3u8?session=&location=
 
 
-#EXTINF:-1 tvg-name="Game Toon" tvg-logo="http://gametoon.com/images/logo.png"    group-title="Entertainment",Game Toon
+#EXTINF:-1 tvg-name="Game Toon" tvg-logo="http://gametoon.com/images/logo.png" group-title="Entertainment",Game Toon
 https://7jlive.tooli-tv.com/live/149007_2.m3u8?session=&location=
 
-#EXTINF:-1 tvg-name="M6 INTERNATIONAL" tvg-logo="https://shahidstatic1.akamaized.net//mediaObject/2021/Abd/Jan/m6-images/m6-international-thumb/original/m6-international-thumb.jpg?height=66&width=117&croppingPoint=&version=1&type=webp"    group-title="Entertainment",M6 INTERNATIONAL
+#EXTINF:-1 tvg-name="M6 INTERNATIONAL" tvg-logo="https://shahidstatic1.akamaized.net//mediaObject/2021/Abd/Jan/m6-images/m6-international-thumb/original/m6-international-thumb.jpg?height=66&width=117&croppingPoint=&version=1&type=webp" group-title="Entertainment",M6 INTERNATIONAL
 
 https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_1.m3u8
 
