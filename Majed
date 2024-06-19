@@ -909,8 +909,9 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/822520.m3u8
 #EXTINF:-1 tvg-id="mbcmax.ae" tvg-name="MBC MAX " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" group-title="Movies",MBC MAX 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/136066.m3u8
 
-#EXTINF:-1 tvg-name="Zee Aflam" tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title=" Movies",Zee Aflam
+#EXTINF:-1 tvg-name="Zee Aflam" tvg-logo="https://lh3.googleusercontent.com/LiPhVX18uaUPZXiBpbmHt-BxKZ9NOO21XJeUAEELRdHBh4zgfafxEEGsiRLRB0Cy9Ktr=w300" group-title="Movies",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
 #EXTINF:-1 tvg-name="B4U Aflam" tvg-logo="https://static.wixstatic.com/media/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.png/v1/fill/w_268,h_225,al_c,q_85,usm_0.66_1.00_0.01/a2453c_4e1801bdba7042dc913a85233fb775bd~mv2.webp" group-title="Movies",B4U Aflam
 https://tr149.tooliserver.com/live/149208_.m3u8
 
