@@ -161,7 +161,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488556.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png"  group-title="Arabic",Bein Drama 1
+#EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png" group-title="Arabic",Bein Drama 1
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467326.m3u8
 
 
@@ -215,22 +215,22 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488552.m3u8
 #EXTINF:-1 tvg-name="Star World " tvg-logo="https://content.osn.com/logo/channel/cropped/STW.png" group-title="Entertainment",Star World 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/722041.m3u8
 
-#EXTINF:-1 tvg-name="Star Action" tvg-logo="https://cne-eg.com/uploads/logos/2024111614266.png"  group-title="Entertainment",Star Action
+#EXTINF:-1 tvg-name="Star Action" tvg-logo="https://cne-eg.com/uploads/logos/2024111614266.png" group-title="Entertainment",Star Action
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467313.m3u8
 
-#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://cne-eg.com/uploads/logos/20242122485192.png"    group-title="Movies",Star Movies
+#EXTINF:-1 tvg-name="Star Movies" tvg-logo="https://cne-eg.com/uploads/logos/20242122485192.png" group-title="Movies",Star Movies
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/722042.m3u8
 
-#EXTINF:-1 tvg-name="Star Life" tvg-logo="https://cne-eg.com/uploads/logos/2024111853124.png"    group-title="Movies",Star Life
+#EXTINF:-1 tvg-name="Star Life" tvg-logo="https://cne-eg.com/uploads/logos/2024111853124.png" group-title="Movies",Star Life
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467315.m3u8
 
-#EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png"    group-title="Entertainment",beIN Series 1 
+#EXTINF:-1  tvg-name="beIN Series 1 " tvg-logo="https://cne-eg.com/uploads/logos/2021123821457.png" group-title="Entertainment",beIN Series 1 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467328.m3u8
 
-#EXTINF:-1 tvg-name="beIN Series 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021123838894.png"    group-title="Entertainment",beIN Series 2 
+#EXTINF:-1 tvg-name="beIN Series 2 " tvg-logo="https://cne-eg.com/uploads/logos/2021123838894.png" group-title="Entertainment",beIN Series 2 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467327.m3u8
 
-#EXTINF:-1 tvg-name="Bein Groummet " tvg-logo="https://cne-eg.com/uploads/logos/2021123736269.png"    group-title="Entertainment",Bein Groummet 
+#EXTINF:-1 tvg-name="Bein Groummet" tvg-logo="https://cne-eg.com/uploads/logos/2021123736269.png" group-title="Entertainment",Bein Groummet 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467318.m3u8
 
 #EXTINF:-1  tvg-name="DUBAI ONE" tvg-logo="https://www.dubaione.ae/content/dam/dubaione/icons/logo-310321/400x170.png" group-title="Entertainment",DUBAI ONE
@@ -257,7 +257,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2324.m3u8
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2323.m3u8
 
-#EXTINF:-1  tvg-name="Fujaira " tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhpJU5qJWdUPu-XaxiN1UnsuViKJGqH9wthg9ro=s88-c-k-c0x00ffffff-no-rj"  group-title="Arabic",Fujaira 
+#EXTINF:-1  tvg-name="Fujaira" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhpJU5qJWdUPu-XaxiN1UnsuViKJGqH9wthg9ro=s88-c-k-c0x00ffffff-no-rj" group-title="Arabic",Fujaira 
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3093.m3u8
 
@@ -936,13 +936,13 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488551.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488553.m3u8
 
 
-#EXTINF:-1 tvg-name=" Bein Movies Premiere 1 " " tvg-logo="https://cne-eg.com/uploads/logos/2021141542830.png"   group-title="Movies", Bein Movies Premiere 1 
+#EXTINF:-1 tvg-name=" Bein Movies Premiere 1 " " tvg-logo="https://cne-eg.com/uploads/logos/2021141542830.png" group-title="Movies", Bein Movies Premiere 1 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2388
-#EXTINF:-1 tvg-name=" Bein Movies Action 2 " tvg-logo="https://cne-eg.com/uploads/logos/20211415442623.png"    group-title="Movies", Bein Movies Action 2 
+#EXTINF:-1 tvg-name=" Bein Movies Action 2 " tvg-logo="https://cne-eg.com/uploads/logos/20211415442623.png" group-title="Movies", Bein Movies Action 2 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2459
-#EXTINF:-1 tvg-name=" Bein Movies Drama 3 " tvg-logo="https://cne-eg.com/uploads/logos/20211415457389.png"    group-title="Movies", Bein Movies Drama 3 
+#EXTINF:-1 tvg-name=" Bein Movies Drama 3 " tvg-logo="https://cne-eg.com/uploads/logos/20211415457389.png" group-title="Movies", Bein Movies Drama 3 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2617
-#EXTINF:-1 tvg-name="Bein Movies Family 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021141559186.png"    group-title="Movies",Bein Movies Family 4 
+#EXTINF:-1 tvg-name="Bein Movies Family 4 " tvg-logo="https://cne-eg.com/uploads/logos/2021141559186.png" group-title="Movies",Bein Movies Family 4 
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/2835
 
 
