@@ -17,7 +17,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344560.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thekriyat " tvg-logo="https://aloula.faulio.com/storage/mediagallery/6b/68/small_3d6f5c459718f2c1677f0fdcbc9d413285602b4e.png" group-title="Arabic",Thekriyat 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344547.m3u8
 
-#EXTINF:-1 tvg-id="mbc1.ae" tvg-name="MBC 1 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="Arabic",MBC 1 
+#EXTINF:-1  tvg-name="MBC 1 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="Arabic",MBC 1 
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
 #EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" group-title="Arabic",MBC Drama 
@@ -35,10 +35,10 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1 tvg-name="MBC ALIRAQ " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" group-title="Arabic",MBC ALIRAQ 
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-#EXTINF:-1 tvg-id="mbcmasr.eg" tvg-name="MBC Masr " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="Arabic",MBC Masr 
+#EXTINF:-1  tvg-name="MBC Masr " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt_9f7d59dcbe.svg" group-title="Arabic",MBC Masr 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477636.m3u8
 
-#EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="Arabic",MBC Masr 2 
+#EXTINF:-1  tvg-name="MBC Masr 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="Arabic",MBC Masr 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 #EXTINF:-1 tvg-name="Bedaya" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/11/120x150-1.jpg" group-title="Arabic",Bedaya 
