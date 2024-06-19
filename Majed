@@ -805,16 +805,15 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/120449.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Kass 6 HD" tvg-logo="https://cne-eg.com/uploads/logos/20183143220219.png" group-title="Sport",Al Kass 6 HD
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/314636.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 1" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/On_Time_Sports.jpg" group-title="Sport",ON TIME SPORT 1
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4186.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/On-Time-Sports-2-450x340-1.png" group-title="Sport",ON TIME SPORT 2
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/100462.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 1" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title="Sport",ON TIME SPORT 1 
-http://teratv.co:8880/965478123547/zdas54786hgf/35010
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 3" tvg-logo="" group-title="Sport",ON TIME SPORT 3
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4193.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title="Sport",ON TIME SPORT 2  
-http://teratv.co:8880/965478123547/zdas54786hgf/9333
-
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 3" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title="Sport",ON TIME SPORT 3  
-http://teratv.co:8880/965478123547/zdas54786hgf/203169
 #EXTINF:-1 tvg-id="" tvg-name="Wanasah" tvg-logo="https://www.mbc.net/dam/jcr:07efc908-da99-47d5-8c1f-db67122cb9d3/wanasa.png" group-title="Music",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
