@@ -41,8 +41,10 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477636.m3u8
 #EXTINF:-1 tvg-id="mbcmasr2.eg" tvg-name="MBC Masr 2 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_egypt2_32f59804e4.svg" group-title="Arabic",MBC Masr 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
-#EXTINF:-1 tvg-name="Bedaya" tvg-logo="https://img1.wsimg.com/isteam/ip/e66a088c-0315-4bb1-a646-201f6bc48a6d/facebook-socialsizes_Cover%20Photo.png/:/rs=w:526,h:200,cg:true,m/cr=w:526,h:200/qt=q:95" group-title="Arabic",Bedaya
+#EXTINF:-1 tvg-name="Bedaya" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/11/120x150-1.jpg" group-title="Arabic",Bedaya 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/405207.m3u8
+
+
 
 #EXTINF:-1 tvg-name="Almajd Ajaweed" tvg-logo="https://almajdtv.com/wp-content/uploads/2024/05/Ajawed.png" group-title="Arabic",Almajd Ajaweed
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/678354.m3u8
