@@ -132,7 +132,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/248926.m3u8
 #EXTINF:-1 tvg-name="Almajd Kids" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/07/majd-kids.jpg" group-title="Kids",Almajd Kids
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/285939.m3u8
 
-#EXTINF:-1 tvg-name="Almajd Rawda" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Rawda_Cover-e1628262212396.png",Almajd Rawda
+#EXTINF:-1 tvg-name="Almajd Rawda" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Rawda_Cover-e1628262212396.png" group-title="Kids",Almajd Rawda
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/285937.m3u8
 
 #EXTINF:-1 tvg-name="Almajd Basmah" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Massah_Cover-1.png" group-title="Kids",Almajd Basmah
@@ -268,7 +268,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3093.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://pbs.twimg.com/media/F60IRYGXwAA7fnn?format=jpg&name=4096x4096" group-title="Arabic",Funoon
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3166.m3u8
 
-#EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic ",ATV
+#EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic",ATV
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2309.m3u8
 
 
@@ -368,10 +368,10 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3133.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="DMC " tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Arabic ",DMC 
+#EXTINF:-1 tvg-id="" tvg-name="DMC " tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Arabic",DMC 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3092.m3u8
 
-#EXTINF:-1 tvg-name="DMC Drama " tvg-logo="https://media.elcinema.com/tvguide/1292_2.png" group-title="Arabic ",DMC Drama 
+#EXTINF:-1 tvg-name="DMC Drama " tvg-logo="https://media.elcinema.com/tvguide/1292_2.png" group-title="Arabic",DMC Drama 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3227.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CBC TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/CBC_Logo_Hub_C.png" group-title="Arabic",CBC TV
@@ -380,10 +380,10 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4220.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CBC Drama TV" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Drama_Logo_Hub_C.png" group-title="Arabic",CBC Drama TV
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4219.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ON " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png" group-title="Arabic ",ON 
+#EXTINF:-1 tvg-id="" tvg-name="ON " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/280px-ON_logo.png" group-title="Arabic",ON 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4250.m3u8
 
-#EXTINF:-1 tvg-name="ON Drama " tvg-logo="https://media.elcinema.com/tvguide/1134_2.png" group-title="Arabic ",ON Drama 
+#EXTINF:-1 tvg-name="ON Drama " tvg-logo="https://media.elcinema.com/tvguide/1134_2.png" group-title="Arabic",ON Drama 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4255.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Alfa Al Yawm" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png" group-title="Arabic",Alfa Al Yawm
@@ -807,12 +807,12 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/314636.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 1 " tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 1 
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 1 " tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport",ON TIME SPORT 1 
 http://teratv.co:8880/965478123547/zdas54786hgf/35010
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 2  
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 2" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport",ON TIME SPORT 2  
 http://teratv.co:8880/965478123547/zdas54786hgf/9333
 
-#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 3" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport ",ON TIME SPORT 3  
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORT 3" tvg-logo="https://i0.wp.com/www.yallashootextra.live/wp-content/uploads/2020/09/On-Sport-Live.jpg?fit=800%2C450&ssl=1" group-title=" Sport",ON TIME SPORT 3  
 http://teratv.co:8880/965478123547/zdas54786hgf/203169
 #EXTINF:-1 tvg-id="" tvg-name="Wanasah" tvg-logo="https://www.mbc.net/dam/jcr:07efc908-da99-47d5-8c1f-db67122cb9d3/wanasa.png" group-title="Music",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
@@ -919,10 +919,10 @@ https://tr149.tooliserver.com/live/149208_.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488554.m3u8
 
 
-#EXTINF:-1 tvg-name="OSN Movies Horror " tvg-logo="https://content.osn.com/logo/channel/cropped/OCM.png" group-title="Movies   ",OSN Movies Horror 
+#EXTINF:-1 tvg-name="OSN Movies Horror " tvg-logo="https://content.osn.com/logo/channel/cropped/OCM.png" group-title="Movies",OSN Movies Horror 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/801044.m3u8
 
-#EXTINF:-1 tvg-name="OSN Movies Action " tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="Movies   ",OSN Movies Action 
+#EXTINF:-1 tvg-name="OSN Movies Action " tvg-logo="https://content.osn.com/logo/channel/cropped/AHD.png" group-title="Movies",OSN Movies Action 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488555.m3u8
 
 
