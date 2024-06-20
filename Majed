@@ -49,6 +49,12 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/405207.m3u8
 #EXTINF:-1 tvg-name="Almajd Ajaweed" tvg-logo="https://almajdtv.com/wp-content/uploads/2024/05/Ajawed.png" group-title="Arabic",Almajd Ajaweed
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/678354.m3u8
 
+#EXTINF:-1 tvg-name="Almajd General" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Majd_logo.png" group-title="Arabic",Almajd General
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/285927.m3u8
+
+#EXTINF:-1 tvg-name="Almajd Masah" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Massah_cover.png" group-title="Arabic",Almajd Masah
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/285934.m3u8
+
 #EXTINF:-1 tvg-name="Rotana Khalejia " tvg-logo="https://d1rjxhevrfxjk0.cloudfront.net/channels/1688402508.webp" group-title="Arabic",Rotana Khalejia 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161013.m3u8
 
@@ -77,11 +83,14 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3114.m3u8
 #EXTINF:-1  tvg-name="Cartoon Network Arabia" tvg-logo="http://bit.ly/2u9wEEH" group-title="Kids",Cartoon Network Arabia
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488545.m3u8
 
+#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/819444.m3u8
+
 #EXTINF:-1 tvg-name="Moonbug" tvg-logo="https://cne-eg.com/uploads/logos/2023102419693.png" group-title="Kids",Moonbug 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488538.m3u8
 
 #EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://cne-eg.com/uploads/logos/20231635837770.png" group-title="Kids",Cartoonito 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488525.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467316.m3u8
 
 #EXTINF:-1 tvg-name="Nickelodeon " tvg-logo="https://content.osn.com/logo/channel/cropped/NIC.png" group-title="Kids",Nickelodeon 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488539.m3u8
@@ -91,11 +100,6 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488542.m3u8
 
 #EXTINF:-1 tvg-name="Nick Jr " tvg-logo="https://content.osn.com/logo/channel/cropped/NJR.png" group-title="Kids",Nick Jr 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488543.m3u8
-
-
-
-#EXTINF:-1 tvg-name="Baby" tvg-logo="https://infrad.org/wp-content/uploads/2019/11/81KCYvActQL-21.png" group-title="Kids",Baby
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467321.m3u8
 
 #EXTINF:-1 tvg-name="OSN KidZone" tvg-logo="https://content.osn.com/logo/channel/cropped/KDZ.png" group-title="Kids",OSN KidZone
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488541.m3u8
@@ -111,18 +115,12 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467319.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467317.m3u8
 
 
-#EXTINF:-1 tvg-name="gulli " tvg-logo="https://gobx.com/wp-content/uploads/2019/03/Image-1.png" group-title="Kids",gulli 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/252020.m3u8
-
 #EXTINF:-1  tvg-name="Fix & Foxi" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/FixFoxi.png" group-title="Kids",Fix & Foxi
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/292017.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Rotana Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rotana_Kids_Logo.png/1200px-Rotana_Kids_Logo.png" group-title="Kids",Rotana Kids
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/819444.m3u8
-
-#EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="http://atfal1.com/wp-content/uploads/2018/02/logo.png" group-title="Kids",atfal wa mwaheb
+#EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="https://media.zid.store/cdn-cgi/image/h=200,q=100,f=auto/https://media.zid.store/10f0f934-b2a6-4646-abcc-9dad42a2dd74/a6e6405b-beb7-4162-95e2-726e5d2de5cd-200x.png" group-title="Kids",atfal wa mwaheb
 https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Toyor Aljanah" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/67/d7/ce/67d7ced1-b61e-2851-f427-95e27abcad3a/source/512x512bb.jpg" group-title="Kids",Toyor Aljanah
@@ -267,7 +265,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3093.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://pbs.twimg.com/media/F60IRYGXwAA7fnn?format=jpg&name=4096x4096" group-title="Arabic",Funoon
+#EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/205.jpg" group-title="Arabic",Funoon
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3166.m3u8
 
 #EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic",ATV
@@ -292,28 +290,28 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4353.m3u8
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3104.m3u8
 
-#EXTINF:-1 tvg-name="KTV Al Qurain" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_plus_new.png" group-title="Arabic",KTV Al Qurain 
+#EXTINF:-1 tvg-name="KTV Al Qurain" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/07/204.png" group-title="Arabic",KTV Al Qurain 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/357497.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Alrai" tvg-logo="https://media.elcinema.com/tvguide/1170_2.png" group-title="Arabic",Alrai
+#EXTINF:-1 tvg-id="" tvg-name="Alrai" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/228.jpg" group-title="Arabic",Alrai
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/218388.m3u8
 
-#EXTINF:-1 tvg-name="Al Bahrain TV "  tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" tvg-url="" group-title="Arabic",Bahrain TV 
+#EXTINF:-1 tvg-name="Al Bahrain TV "  tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/209.jpg" tvg-url="" group-title="Arabic",Bahrain TV 
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4503.m3u8
 
-#EXTINF:-1 tvg-name="Bahrain International "  tvg-logo="https://content.osn.com/logo/channel/cropped/BAH.png" group-title="Arabic",Bahrain International 
+#EXTINF:-1 tvg-name="Bahrain International "  tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/209.jpg" group-title="Arabic",Bahrain International 
 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4288.m3u8
 
-#EXTINF:-1 tvg-name="Qatar TV" tvg-logo="https://pbs.twimg.com/profile_images/1208449656717533187/UCKQU9NL_400x400.jpg" group-title="Arabic",Qatar TV
+#EXTINF:-1 tvg-name="Qatar TV" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/07/155.jpg" group-title="Arabic",Qatar TV
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4415.m3u8
 
 #EXTINF:-1 tvg-name="Qatar TV 2" tvg-logo="https://www.raya.com/wp-content/uploads/2020/07/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%B7%D8%B1-2.jpg" group-title="Arabic",Qatar TV 2
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/184832.m3u8
 
-#EXTINF:-1  tvg-name="Alryan" tvg-logo="https://www.alrayyan.tv//wp-content/uploads/2016/04/TVLogo.png" group-title="Arabic",Alryan
+#EXTINF:-1  tvg-name="Alryan" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/07/156.jpg" group-title="Arabic",Alryan
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2321.m3u8
 
 
@@ -433,9 +431,9 @@ https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
 
 #EXTINF:-1 tvg-name="AD Nat Geographic " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5ff6eac8ed.png" group-title="Factual",AD Nat Geographic 
-http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3098.m3u8
+http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3115.m3u8
 
-#EXTINF:-1 tvg-name="Baynounah" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Factual",Baynounah
+#EXTINF:-1 tvg-name="Baynounah" tvg-logo="https://cdn-m.admedia.ae/store/archive/image/2023/9/19/e8a210e9-77a0-4389-88b5-da2850bf1d00.svg" group-title="Factual",Baynounah
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3098.m3u8
 
 #EXTINF:-1 tvg-name="DocuBox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="Factual",DocuBox
@@ -529,13 +527,13 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/619549.m3u8
 
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 
-#EXTINF:-1 tvg-name="<asharq >" tvg-logo="https://now.asharq.com/_nuxt/img/asharq.6b6a701.png" group-title="News",asharq 
+#EXTINF:-1 tvg-name="Asharq" tvg-logo="https://now.asharq.com/_nuxt/img/asharq.6b6a701.png" group-title="News",Asharq 
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index_1.m3u8
 
-#EXTINF:-1 tvg-name="< Aljazeera >" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/ajcorp_channel_thumbnail/public/aja-sm_2.png?itok=Upk8f91R" group-title="News", Aljazeera
+#EXTINF:-1 tvg-name="Aljazeera" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2024/06/Al-Jazeera-News-Logo-120-x-150.png" group-title="News", Aljazeera
 https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 
-#EXTINF:-1 tvg-name="< Aljazeera mubasher >" tvg-logo="https://network.aljazeera.net/sites/aj_corporate/files/styles/ajcorp_channel_thumbnail/public/ajm-sm.png?itok=rW1nKq9V" group-title="News", Aljazeera mubasher 
+#EXTINF:-1 tvg-name="Aljazeera Mubasher" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/05/Al-Jazeera-Mubasher-31.png" group-title="News", Aljazeera Mubasher 
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-1 tvg-name="BBC Arabic " tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-url="" group-title="News",BBC Arabic 
