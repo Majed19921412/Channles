@@ -7,7 +7,6 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3113.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/317545.m3u8
 
 
-
 #EXTINF:-1 tvg-name="Saudi 1" tvg-logo="https://aloula.faulio.com/storage/mediagallery/24/33/small_de5526f31108ed0715edbf837a2be14b04a6001d.png" group-title="Arabic",Saudi 1
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/344561.m3u8
 
@@ -44,8 +43,6 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1 tvg-name="Bedaya" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/11/120x150-1.jpg" group-title="Arabic",Bedaya 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/405207.m3u8
 
-
-
 #EXTINF:-1 tvg-name="Almajd Ajaweed" tvg-logo="https://almajdtv.com/wp-content/uploads/2024/05/Ajawed.png" group-title="Arabic",Almajd Ajaweed
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/678354.m3u8
 
@@ -68,8 +65,8 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161014.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3304.m3u8
 
 #EXTINF:-1 tvg-name="MBC Action " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" group-title="Entertainment",MBC Action 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477637.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 3 " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_3_dae34fae7b.svg" group-title="Kids",MBC 3 
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
@@ -107,18 +104,14 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488541.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN  Kids " tvg-logo="https://content.osn.com/logo/channel/cropped/OMK.png" group-title="Kids",OSN  Kids 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488550.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Baraeem HD" tvg-logo="https://cne-eg.com/uploads/logos/2021123929832.png" group-title="Kids",Baraeem
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467319.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Jeem HD" tvg-logo="https://cne-eg.com/uploads/logos/202114319586.png" group-title="Kids",Jeem HD
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467317.m3u8
 
-
 #EXTINF:-1  tvg-name="Fix & Foxi" tvg-logo="https://gobx.com/wp-content/uploads/2019/03/FixFoxi.png" group-title="Kids",Fix & Foxi
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/292017.m3u8
-
-
 
 #EXTINF:-1 tvg-name="atfal wa mwaheb" tvg-logo="https://media.zid.store/cdn-cgi/image/h=200,q=100,f=auto/https://media.zid.store/10f0f934-b2a6-4646-abcc-9dad42a2dd74/a6e6405b-beb7-4162-95e2-726e5d2de5cd-200x.png" group-title="Kids",atfal wa mwaheb
 https://5d12bc59c4748.streamlock.net/redirect/atfal1.com/atfal2?type=m3u8
@@ -141,15 +134,12 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/214815.m3u8
 #EXTINF:-1 tvg-name="Almajd Taghareed" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/08/Taghreed_Cover2.png" group-title="Kids",Almajd Taghareed
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/285935.m3u8
 
-#EXTINF:-1 tvg-name="OSN Ya Hala  " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="Arabic",OSN Ya Hala  
 
+#EXTINF:-1 tvg-name="OSN Ya Hala  " tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png" group-title="Arabic",OSN Ya Hala  
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488570.m3u8
 
-
 #EXTINF:-1 tvg-name="OSN Ya Hala blarabi" tvg-logo="https://content.osn.com/logo/channel/cropped/OYA.png" group-title="Arabic",OSN Ya Hala Al Oula
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488569.m3u8
-
 
 #EXTINF:-1 tvg-name="ART Hekayat" tvg-logo="https://content.osn.com/logo/channel/cropped/HK1.png" group-title="Arabic",ART Hekayat 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488557.m3u8
@@ -157,14 +147,8 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488557.m3u8
 #EXTINF:-1 tvg-name="ART Hekayat 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HK2.png" group-title="Arabic",ART Hekayat 2
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488556.m3u8
 
-
-
 #EXTINF:-1 tvg-id="beIN Drama" tvg-name="Bein Drama 1" tvg-logo="https://cne-eg.com/uploads/logos/2021123714253.png" group-title="Arabic",Bein Drama 1
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467326.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="alemarat.ae" tvg-name="AL Emarat TV " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74b137.png" group-title="Arabic",AL Emarat TV 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3086.m3u8
@@ -172,16 +156,10 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3086.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi TV " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="Arabic",Abu Dhabi TV 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3083.m3u8
 
-
-
-
 #EXTINF:-1 tvg-name="Dhafra " tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png" group-title="Arabic",Dhafra 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3089.m3u8
 
 #EXTINF:-1  tvg-name="DUBAI TV" tvg-logo="https://www.dubaitv.ae/etc/designs/dubaitv/clientlib-site/static-200219/images/logo-wide.png" group-title="Arabic",DUBAI TV
-
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3082.m3u8
 
 #EXTINF:-1 tvg-id="samadubai.ae" tvg-name="SAMA DUBAI " tvg-logo="https://www.samadubai.ae/etc/designs/samadubai/clientlib-site/static-200219-1/images/logo-wide.png" group-title="Arabic",SAMA DUBAI 
@@ -192,7 +170,6 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/622326.m3u8
 
 
 #EXTINF:-1 tvg-name="MBC Variety " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" group-title="Entertainment",MBC Variety 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/477632.m3u8
 
 #EXTINF:-1 tvg-id="mbcbollywood.ae" tvg-name="MBC Bollywood " tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" group-title="Entertainment",MBC Bollywood 
@@ -235,15 +212,8 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/467318.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3079.m3u8
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Al Sharjah" tvg-logo="https://sba.net.ae/public/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="Arabic",Al Sharjah
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2325.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Sharjah 2" tvg-logo="https://sba.net.ae/public/uploads/19/Jan/24/aa5a9f2ce9f440410b796a6747566d6c58726961784a69665757426a3157.png" group-title="Arabic",Al Sharjah 2
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
@@ -252,18 +222,10 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2324.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SHARQIYA from Kalba" tvg-logo="https://sba.net.ae/public/uploads/19/Feb/07/021d93308913984ba52247705a515969457868566d52423966376867716a.png" group-title="Arabic",SHARQIYA from Kalba
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2323.m3u8
 
 #EXTINF:-1  tvg-name="Fujaira" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhpJU5qJWdUPu-XaxiN1UnsuViKJGqH9wthg9ro=s88-c-k-c0x00ffffff-no-rj" group-title="Arabic",Fujaira 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3093.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Funoon" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/205.jpg" group-title="Arabic",Funoon
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3166.m3u8
@@ -271,38 +233,28 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3166.m3u8
 #EXTINF:-1 tvg-name=" ATV" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="Arabic",ATV
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2309.m3u8
 
-
-
 #EXTINF:-1  tvg-name="KTV 1 " tvg-logo="https://pbs.twimg.com/media/EyX6dUWW8AM6uCO.jpg" group-title="Arabic",KTV 1 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4355.m3u8
 
 #EXTINF:-1  tvg-name="KTV 2 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/640px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg" group-title="Arabic",KTV 2 
-
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4351.m3u8
 
 #EXTINF:-1  tvg-name="KTV Arabi " tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_arabe_new.png" group-title="Arabic",KTV Arabi 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4353.m3u8
 
 #EXTINF:-1  tvg-name="KTV Drama" tvg-logo="https://media.gov.kw/images/TV_Radio_Logos/kwtv_khallek_new.png" group-title="Arabic",KTV Drama 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3104.m3u8
 
 #EXTINF:-1 tvg-name="KTV Al Qurain" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/07/204.png" group-title="Arabic",KTV Al Qurain 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/357497.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Alrai" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/228.jpg" group-title="Arabic",Alrai
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/218388.m3u8
 
 #EXTINF:-1 tvg-name="Al Bahrain TV "  tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/209.jpg" tvg-url="" group-title="Arabic",Bahrain TV 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4503.m3u8
 
 #EXTINF:-1 tvg-name="Bahrain International "  tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2021/10/209.jpg" group-title="Arabic",Bahrain International 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4288.m3u8
 
 #EXTINF:-1 tvg-name="Qatar TV" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/07/155.jpg" group-title="Arabic",Qatar TV
@@ -314,22 +266,17 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/184832.m3u8
 #EXTINF:-1  tvg-name="Alryan" tvg-logo="https://www.ooredoo.qa/web/wp-content/uploads/2023/07/156.jpg" group-title="Arabic",Alryan
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2321.m3u8
 
-
 #EXTINF:-1  tvg-name="Oman TV" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C7kfubs.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Arabic",Oman TV 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4439.m3u8
 
 #EXTINF:-1  tvg-name="Oman Mubasher" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_live.png" group-title="Arabic",Oman Mubasher
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/248992.m3u8
 
-
-
-
 #EXTINF:-1 tvg-name="Jordan TV " tvg-logo="https://upload.wikimedia.org/wikipedia/ar/9/9d/%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A.png" group-title="Arabic",Jordan TV 
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?st=vSmqGDuGEqG6yZsocGRVSw&e=1620996912&P=Browser&C=Chrome&D=Desktop&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel
 
 #EXTINF:-1 tvg-name="Roya TV "  tvg-logo="https://i.imgur.com/Sa2nBTP.png" " group-title="Arabic",Ro'ya TV 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4232.m3u8
-
 
 #EXTINF:-1 tvg-name="Amman TV " tvg-logo="https://ammantv.net/images/logo.svg" group-title="Arabic",Amman TV 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3236.m3u8
@@ -338,35 +285,25 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3236.m3u8
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4449.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Lana" tvg-logo="https://www.akhbarkalaan.com/wp-content/uploads/2021/05/lana-tv.jpg" group-title="Arabic",Lana
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/140804.m3u8
 
 #EXTINF:-1 tvg-name="Syria drama " tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.Drama.png" group-title="Arabic",Syria drama 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2276.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Syria" tvg-logo="http://62.210.123.37/TV-Logo/Syria/Syria.1.png" group-title="Arabic",Syria
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2318.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-name="LBC International " tvg-logo="https://www.lbcgroup.tv/programsimages/Channels-L-1-636090059981705970.png" group-title="Arabic",LBC International 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/161006.m3u8
 
 #EXTINF:-1  tvg-name="MTV " tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Arabic ", MTV 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/4215.m3u8
 
 #EXTINF:-1  tvg-name="Future " tvg-logo="http://www.futuretvnetwork.com/images/logo-n2.png" group-title="Arabic ", Future 
-
 http://freearabic.zinamedia.net/ar/Future-TV/index.m3u8
 
 #EXTINF:-1  tvg-name="Aljadeed" tvg-logo="https://www.filepicker.io/api/file/NvXGJ9byTi6BoeSFG9sZ" group-title="Arabic ", Aljadeed
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3133.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="DMC " tvg-logo="https://dmc.com.eg/wp-content/themes/dmc/images/dmc-hd.png" group-title="Arabic",DMC 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3092.m3u8
@@ -398,6 +335,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488566.m3u8
 #EXTINF:-1 tvg-name="Citruss tv" tvg-logo="https://statics.citrusstv.com/media/logo/stores/7/citruss_logo_ar-v1.0.png" group-title="Arabic",Citruss tv
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3271.m3u8
 
+
 #EXTINF:-1 tvg-id="noordubai.ae" tvg-name="Noor Dubai" tvg-logo="https://www.noordubai.com/etc/designs/noordubai/orginal/static/images/logo-noordubai.png" group-title="Islamic",Noor Dubai
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/645502.m3u8
 
@@ -416,19 +354,15 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3259.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Almajd Alhadeth" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/04/logo-3.png" group-title="Islamic",Almajd Alhadeth
 http://teratv.co:8880/965478123547/zdas54786hgf/129855
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Almajd  Scientific" tvg-logo="https://almajdtv.com/wp-content/uploads/2021/04/logo-13.png" group-title="Islamic",Almajd  Scientific
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/7140.m3u8
 
 
-
 #EXTINF:-1 tvg-name="Althaqafeyyah" tvg-logo="https://shahid.mbc.net/streaming-pages/_next/image?url=https%3A%2F%2Fshahid.mbc.net%2FmediaObject%2F2023%2Fbedour2%2FLogo_Al_Thaqafeya%2Foriginal%2FLogo_Al_Thaqafeya.png%3Fheight%3Dauto%26width%3D288%26croppingPoint%3D%26version%3D1%26type%3Dwebp&w=1440&q=75" group-title="Factual",Althaqafeyyah
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/437226.m3u8
 
 #EXTINF:-1 tvg-name="Al Jazeera Documentary" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Factual",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-
 
 #EXTINF:-1 tvg-name="AD Nat Geographic " tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5ff6eac8ed.png" group-title="Factual",AD Nat Geographic 
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/3115.m3u8
@@ -448,10 +382,8 @@ http://zinachannels.zinamedia.net/ar-s/Nat-Geo-Wild-Hd/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Factual",Animal Planet
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488548.m3u8
 
-
 #EXTINF:-1 tvg-name="Discovery" tvg-logo="https://content.osn.com/logo/channel/cropped/DSC.png" group-title="Factual",Discovery
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488535.m3u8
-
 
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Science_logo.svg/1200px-Science_logo.svg.png" group-title="Factual",Discovery Science
 http://zinachannels.zinamedia.net/ar-s/Discovery-Science-HD/index.m3u8
@@ -465,32 +397,23 @@ http://sabtooh.club:8000/792787557368/60cef92c92609.34415/3583
 #EXTINF:-1 tvg-name="Travel HD" tvg-logo="https://cne-eg.com/uploads/logos/20183175715209.png" group-title="Factual",Travel HD
 http://sabtooh.club:8000/792787557368/60cef92c92609.34415/4387
 
-
 #EXTINF:-1 tvg-name="History" tvg-logo="https://content.osn.com/logo/channel/cropped/HIS.png" group-title="Factual",History
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488532.m3u8
 
 #EXTINF:-1 tvg-name="History 2" tvg-logo="https://content.osn.com/logo/channel/cropped/HI2.png" group-title="Factual",History 2
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/488531.m3u8
 
-
 #EXTINF:-1  tvg-name="Oman Cultural" tvg-logo="http://part.gov.om/part/images/cultural.png" group-title="Factual",Oman Cultural
 https://7jlive.tooli-tv.com/live/148009_2.m3u8?session=&location=
-
-
 
 
 #EXTINF:-1 tvg-id=" tvg-name="CBC Sofra" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Sofra_Logo_Hub_C.png" group-title="Lifestyle ",CBC Sofra
 http://freearabic.zinamedia.net/ar/CBC-Sofra/index.m3u8
 
-
-
 #EXTINF:-1  tvg-name="FOX Life" tvg-logo="https://www.dreamboxgate.com/imgcache/2019/505602_dreambox-sat.com.png" group-title="Lifestyle ",FOX Life
-
 http://zinachannels.zinamedia.net/ar-s/Fox-live-HD/index.m3u8
 
 #EXTINF:-1  tvg-name="Food Network" tvg-logo="https://cne-eg.com/uploads/logos/201831759668.png" group-title="Lifestyle ",Food Network
-
 http://zinachannels.zinamedia.net/ar-s/Online-Food-Network/index.m3u8
 
 #EXTINF:-1  tvg-name="Fatafeat" tvg-logo="https://i.fatafeat.com/static/images/logo.png" group-title="Lifestyle ",Fatafeat
@@ -506,15 +429,11 @@ http://zinachannels.zinamedia.net/ar-s/Fine-living/index.m3u8
 http://zinachannels.zinamedia.net/ar-s/Osn-Mezze/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="alekhbariya.sa" tvg-name="Alekhbariya " tvg-logo="https://aloula.faulio.com/storage/mediagallery/11/78/small_3b55efbef523c3a6d6e45d8c5a2d28b86bdf4117.png" group-title="News",Alekhbariya
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/317544.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AlArabiya" tvg-logo="https://www.mms.net/wp-content/uploads/2021/04/Al-Arabia-light.png" group-title="News",Al Arabiya 
-
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2328.m3u8
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Al Arabiya Al Hadath" tvg-logo="http://logo.panel.cx/logo/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="News",Al Arabiya Al Hadath
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2284.m3u8
@@ -522,9 +441,7 @@ http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/2284.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alarabiya Business" tvg-logo="http://logo.panel.cx/logo/NEWS%26FACTUAL/ALARABIYAALHADATH.png" group-title="News",Alarabiya Business
 http://tools34387.cdngold.me:80/live/majedalhazmi/c14283e2ec/619549.m3u8
 
-
 #EXTINF:-1  tvg-name="Almamlka"  tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" tvg-url="" group-title="News",Almamlka
-
 https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
 
 #EXTINF:-1 tvg-name="Asharq" tvg-logo="https://now.asharq.com/_nuxt/img/asharq.6b6a701.png" group-title="News",Asharq 
@@ -562,27 +479,25 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream05/strea
 
 #EXTINF:-1  tvg-name="Bloomberg"   tvg-logo="https://content.osn.com/logo/channel/cropped/BTV.png" group-title="News",Bloomberg
 https://7jlive.tooli-tv.com/live/17000_2.m3u8?session=&location=
+
 #EXTINF:-1  tvg-name="CNN"   tvg-logo="https://cne-eg.com/uploads/logos/20183173213130.PNG" group-title="News",CNN
 https://7jlive.tooli-tv.com/live/149225_2.m3u8?session=&location=
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Extra News" tvg-logo="https://storage.googleapis.com/cbc-assets/assets/images/uploads/channels/1/Extra_Logo_Hub_C.png" group-title="News",Extra News
 http://teratv.co:8880/965478123547/zdas54786hgf/38810
+
 
 #EXTINF:-1  tvg-name="IEN TV"   tvg-logo="https://edu.moe.gov.sa/Wadi/e-education/PublishingImages/Pages/default/ientvsa.jpg" group-title="Education",IEN TV
 https://7jlive.tooli-tv.com/live/149469_2.m3u8?session=&location=
 
 #EXTINF:-1  tvg-name="IEN TV 1"   tvg-logo="https://edu.moe.gov.sa/Wadi/e-education/PublishingImages/Pages/default/ientvsa.jpg" group-title="Education",IEN TV 1
-
 https://7jlive.tooli-tv.com/live/149470_2.m3u8?session=&location=
 
 #EXTINF:-1  tvg-name="IEN TV 2"   tvg-logo="https://edu.moe.gov.sa/Wadi/e-education/PublishingImages/Pages/default/ientvsa.jpg" group-title="Education",IEN TV 2
-
 https://7jlive.tooli-tv.com/live/149471_2.m3u8?session=&location=
+
 #EXTINF:-1  tvg-name="IEN TV 3"   tvg-logo="https://edu.moe.gov.sa/Wadi/e-education/PublishingImages/Pages/default/ientvsa.jpg" group-title="Education",IEN TV 3
 https://7jlive.tooli-tv.com/live/149472_2.m3u8?session=&location=
-
 
 #EXTINF:-1  tvg-name="IEN TV 4"   tvg-logo="https://edu.moe.gov.sa/Wadi/e-education/PublishingImages/Pages/default/ientvsa.jpg" group-title="Education",IEN TV 4
 https://7jlive.tooli-tv.com/live/149473_2.m3u8?session=&location=
